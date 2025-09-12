@@ -1,0 +1,702 @@
+[
+  {
+    "id": 0,
+    "title": "유럽질병예방통제센터, 2018년 편모충증 연례 역학보고서 게재",
+    "content": "유럽질병예방통제센터(ECDC)는 2018년의 편모충증(Giardiasis) 연례 역학보고서(*)를 게재하였음. ― 2018년 유럽연합/유럽경제지역(EU/EEA)에서 21,049건의 편모충증 확진 사례가 보고되었으며, 통보율은 인구 10만 명 당 5.6건이었음. ― 벨기에, 불가리아, 스웨덴에서 가장 높은 통보율이 보고되었으며, 인구 10만 명 당 가장 높은 통보율은 0~4세 연령에서 관찰되었음(남성 17.2, 여성 14.4).― 2014년부터 2018년까지 EU/EEA의 통보율은 안정적이었으나, 연간 신고 건수는 꾸준히 증가하고 있음.   (*) 원문: https://www.ecdc.europa.eu/sites/default/files/documents/AER-Giardiasis-2018.pdf",
+    "query": "2018년 유럽연합/유럽경제지역에서 편모충증의 통보율은 어느 연령대에서 가장 높았나요?",
+    "answer": "0~4세 연령에서 가장 높은 통보율이 관찰되었음."
+  },
+  {
+    "id": 1,
+    "title": "싱가포르 식품청 등 연구진, 싱가포르에서 가장 많이 발생한 식중독 원인은 클로스트리디움 퍼프린젠스",
+    "content": "싱가포르 식품청, 보건부 등의 연구에 따르면, 2018년부터 2021년까지 싱가포르에서 발생한 식중독의 가장 큰 원인 병원체는 클로스트리듐 퍼프린젠스와 살모넬라균이였음. 2018년 1월부터 2021년 12월까지 7,538건의 사례와 관련된 총 171건의 발병에 대해 조사하였음.  121건의 식중독 발병 중 42% 이상이 케이터링 업체(caterers)에서 조리한 음식에서 발생했고, 12.4%는 구내 식당(in-house kitchen)에서 발생하였음. 50건은 비-식중독 발병이었음. 싱가포르 식품청, 보건부 그리고 기타 관련 공공 기관이 함께 발병 조사를 실시하였고, 조사 결과는 저널 'International Journal of Environmental Research and Public Health'에 게시됨. 가장 일반적인 병원체는 클로스트리듐 퍼프린젠스와 살모넬라균이었으며, 각각 식중독 발병 20건, 18건과 관련이 있었음.",
+    "query": "싱가포르에서 2018년부터 2021년까지 식중독의 주요 원인은 무엇인가?",
+    "answer": "클로스트리듐 퍼프린젠스와 살모넬라균이 주요 원인이다."
+  },
+  {
+    "id": 2,
+    "title": "[회수]뉴질랜드 International Foods Ltd, 살모넬라 오염 가능성으로 인도산 참깨 회수",
+    "content": "-일자: 2024-07-19-유통지역: 뉴질랜드 Waiheke, 4 Putiki Rd, Waiheke Island, Auckland 소재 RAW 매장. 354b Church Street, Penrose, Auckland 소재 International Foods 매장. 재수출 되지 않음.-회수사: International Foods Ltd-제품명: Scrumptious brand Sesame Seeds (250g). Best Before: 31 Jan 2026-원산지(수출국): 인도-회수사유: 살모넬라 오염 가능성-제품사진: 원문참조-기타: 동 문제와 관련된 부작용 사례 보고된 바 없음.",
+    "query": "Scrumptious brand Sesame Seeds의 회수 사유는 무엇인가요?",
+    "answer": "살모넬라 오염 가능성"
+  },
+  {
+    "id": 3,
+    "title": "네덜란드 국립보건환경연구원, 식중독 발생 건수 전년 대비 증가...특히 살모넬라증 증가해",
+    "content": "네덜란드 국립보건환경연구원(RIVM)의 연례 보고서(*)에 따르면, 2023년 네덜란드에서 병원균으로 인한 식중독은 대부분 전년 대비 증가했으며, 특히 살모넬라증 발병 건수는 150건을 기록했음. 위장병 환자 수는 COVID-10 팬데믹 이전과 비슷했으나, 이질, 시가 독소 생성 대장균(STEC), 노로바이러스, 작은와포자충, 렙토스피라 감염 건수는 많았음.  캠필로박터 감염증(1건), 살모넬라증(4건), STEC 감염증(1건)에 대해 조사한 결과, 살모넬라증 2건의 발생 원인은 산란계 농장에서 생산된 계란과 충분히 숙성되지 않은 건조 소시지로 확인되었음.  병원균별 발병 현황은 다음과 같음. >캠필로박터 : 환자 4,672명, 살모넬라 : 환자 2,368명, STEC : 환자 576명, 리스테리아 : 환자 95명 등(*) https://www.rivm.nl/bibliotheek/rapporten/2024-0115.pdf",
+    "query": "2023년 네덜란드에서 살모넬라증 발병 원인은 무엇인가?",
+    "answer": "살모넬라증 2건의 발생 원인은 산란계 농장에서 생산된 계란과 충분히 숙성되지 않은 건조 소시지로 확인되었음."
+  },
+  {
+    "id": 4,
+    "title": "세계동물보건기구, 고병원성 조류 인플루엔자 동물 감염 현황(10.21)",
+    "content": "1. 일본, H5N1 (후속보고 1) - 최초발생일: 2024.10.16 - 발생보고일: 2024.10.21 - 발생규모(가금류): 의심19901건, 감염120건, 폐사120건, 살처분19781건, 도축-건 - 기타: 진행형이며, 추후 보고가 제출될 예정 - 원문: https://wahis.woah.org/#/in-review/5966 2. 폴란드, H5N1 (후속보고 3) - 최초발생일: 2024.10.5 - 발생보고일: 2024.10.21 - 발생규모(가금류): 의심1540336건, 감염1540336건, 폐사4562건, 살처분158338건, 도축-건 - 기타: 진행형이며, 추후 보고가 제출될 예정 - 원문: https://wahis.woah.org/#/in-review/5932",
+    "query": "일본에서 H5N1 조류 인플루엔자가 처음 발생한 날짜는 언제인가요?",
+    "answer": "2024년 10월 16일입니다."
+  },
+  {
+    "id": 5,
+    "title": "[회수]미국 Old Silvana Creamery, 대장균 오염 가능성으로 원유 회수",
+    "content": "-일자: 2024.08.27.-유통지역: 미국 Western Washington-회수사: Old Silvana Creamery-제품명: Jim's Jerseys raw milk. best buy date: 8/23.  ½ gallon 및 gallon 용기로 판매됨.-회수사유: 대장균 오염 가능성-제품사진: --기타: 동 제품과 관련하여 현재까지 보고된 질병사례 없음.",
+    "query": "Jim's Jerseys 원유의 유통기한은 언제인가요?",
+    "answer": "8/23"
+  },
+  {
+    "id": 6,
+    "title": "스웨덴 보건당국, 2023년 병원성 미생물 감염 통계 발표... 살모넬라 발병 등",
+    "content": "미국 언론 Food Safety News에 따르면, 스웨덴 보건당국이 발표한 2023년 병원성 미생물 감염 통계 중 큰 규모의 살모넬라 발병 등이 확인되었음.  2023년 총 1,316건의 살모넬라 감염이 보고되었으며(비교: 2022년 1,137건), 이중 절반 이상이 태국, 튀르키예 등 해외에서 감염되었음. 10건 이상의 사례가 보고된 발병은 총 3건으로, 그중 1건은 82명의 사람들에게 영향을 미쳤고 스웨덴의 가장 큰 양계 시설인 CA Cedergren(사)가 생산한 계란이 원인이었음.  대장균은 총 939건이 보고되었으며, 리스테리아증은 131건이 보고되었음. 한편, 캠필로박터 감염은 총 5,676건 보고되었으며, 2022년 대비 여행과 관련된 사례가 증가한 것으로 나타남.",
+    "query": "2023년 스웨덴에서 가장 큰 규모의 살모넬라 발병 원인은 무엇인가?",
+    "answer": "스웨덴의 가장 큰 양계 시설인 CA Cedergren(사)가 생산한 계란이 원인이다."
+  },
+  {
+    "id": 7,
+    "title": "[E/R]미국 Apple Wedge LLC, 높은 수준의 파튤린으로 애플사이다 회수",
+    "content": "-지역: 미국 GA, NC, SC, FL-제품명:1) 100% CIDER Pasteurized APPLE WEDGE CIDER 1 Gal. (3.78L) HENDERSONVILLE, NC 28792 냉장보관(Keep Refrigerated), 방부제용 소르빈산칼륨(Potassium Sorbate) 0.1% 함유. UPC 0 36482 12800 0>C3419 SELL BY 12/09/20242) Cinnamon Pasteurized APPLE WEDGE CIDER 1/2 Gal. (1.89L) HENDERSONVILLE, NC 28792 냉장보관(Keep Refrigerated) 미국산(Produce of USA), 방부제용 소르빈산칼륨(Potassium Sorbate) 0.1% 함유. UPC 0 36482 64002 1>C3419 SELL BY 12/09/20243) No Preservatives 100% CIDER Pasteurized APPLE WEDGE CIDER 1/2 Gal. (1.89L) HENDERSONVILLE, NC 28792 냉장보관(Keep Refrigerated) 미국산(Produce of USA) UPC 0 36482 64000 7>C3419 SELL BY 10/24/2024-회수사: Apple Wedge LLC (회수중, 회수일: 10/7/2024)-회수사유: 제3자 실험실 검사 결과 높은 수준의 파튤린(허용치: 50ppb, 검출량: 78ppb)이 검출되었음.",
+    "query": "Apple Wedge LLC가 회수하는 애플사이다의 파튤린 검출량은 얼마인가?",
+    "answer": "78ppb"
+  },
+  {
+    "id": 8,
+    "title": "[회수]뉴질랜드 Henderson Dairy, 리스테리아 오염 가능성으로 원유 회수",
+    "content": "-일자: 2024-07-29-유통지역: 뉴질랜드 Henderson Dairy, 926 Waipahi Highway, RD 1, Gore 9771에서 판매됨-회수사: Henderson Dairy-제품명: Henderson Dairy brand Farm Fresh Raw Milk (unpasteurised) 1 Litre>배치 및 일자: Batch 240724 소비기한(Use by) 280724. Batch 260724 Use by 300724.>1리터 병에 판매됨-회수사유: 리스테리아(Listeria) 오염 가능성-제품사진: 원문참조-기타: 뉴질랜드에서 동 문제와 관련된 질병 사례 보고된 바 없음.",
+    "query": "Henderson Dairy의 Farm Fresh Raw Milk가 회수된 이유는 무엇인가요?",
+    "answer": "리스테리아 오염 가능성으로 인해 회수되었습니다."
+  },
+  {
+    "id": 9,
+    "title": "[E/R]미국 Fresh Express Incorpated, 리스테리아 오염 가능성으로 샐러드 키트 회수",
+    "content": "-지역: 미국 AL, FL, GA, CA, UT, WA; 캐나다-회수사: Fresh Express Incorpated (회수중, 회수일: 2/8/2024)-회수사유: 리스테리아 모노사이토제네스 오염 가능성. 샐러드 키트의 양념 팩에는 회수된 치즈가 들어있음.-제품명: 1) Chopped Salad Kit Southwest with condiments(toppings that include cheese), salad bag 표시(Green Cabbage, Green Leaf Lettuce, Kale, Red Cabbage, Carrots, Green Onions, Tortilla Strips, Cheddar Cheese, and Chipotle Ranch Dressing), Net Wt 13.4 oz, 케이스당 6 bags. UPC 681131305129(Lot Number:G002 Expiration/Use By Date :2024-01-17 Lot Number:G364 Expiration/Use By Date :2024-01-14 Condiment Pack Use-by Dates 03/03/2024)2) Fresh Express Kit Salsa! Ensalada with condiments(toppings that include cheese), salad bag 표시(Iceberg  Romaine Lettuce, Salsa Ranch Dressing, Nacho Taco Seasoned Cheese Yellow  Blue Tortilla Strips), Net Wt 12.1 oz, 케이스당 6 bags. UPC 071279309026(Lot Number:S002, S003, S005, S008, S009, S012, S015, S019, S023, S026, S030, S033, S353, S356, S361, S362, S364 Expiration/Use By Date : 01/06/2024, 01/10/2024, 01/15/2024, 01/16/2024, 01/18/2024, 01/21/2024, 01/22/2024, 01/24/2024, 01/27/2024, 01/28/2024, 01/31/2024, 02/3/2024 , 02/07/2024, 02/11/2024 , 02/14/2024, 02/18/2024, 02/20/2024 Condiment Pack Use-by Dates 02/28/2024 - 04/04/2024)",
+    "query": "Fresh Express Incorpated가 회수하는 샐러드 키트의 회수 사유는 무엇인가요?",
+    "answer": "리스테리아 모노사이토제네스 오염 가능성 때문입니다."
+  },
+  {
+    "id": 10,
+    "title": "[회수]캐나다 Pattison Food Group, 살모넬라 오염된 그래놀라 함유로 파르페 회수",
+    "content": "* 관련 기수집 정보: [회수]캐나다 Quaker Canada, 살모넬라 오염 가능성으로 그래놀라 바 등 회수(수집일자: 2024-01-12) -최초 발표 일자: 2024-1-15 (최신 업데이트 일자: 2024-1-15)-유통지역 : 캐나다 Alberta, British Columbia-제품정보 : 브랜드; 제품; 크기; UPC; 코드1) Urban Fare; UF Chia Tropical Fruit Parfait; ~385 g; 0 288779 908998; 2024/JA/19까지의 모든 품질유지기한(best before dates)2) Urban Fare; Yogurt Parfait; 330 g; 0 280385 706999; 2024/JA/18까지의 모든 품질유지기한(best before dates)-회수사 : Pattison Food Group-회수사유 : 살모넬라 오염 가능. 2024년 1월 11일에 Quaker Canada가 회수한 그래놀라를 사용하여 해당 제품을 만들었음-제품사진 : 원문 참조-기타 : 타 국가의 회수로 동 회수 시작함. 해당 제품 섭취와 관련된 질병 보고 없음",
+    "query": "Pattison Food Group가 회수한 제품의 유통지역은 어디인가요?",
+    "answer": "캐나다 Alberta, British Columbia"
+  },
+  {
+    "id": 11,
+    "title": "[E/R]미국 Sprouts Farmers Market, 리스테리아 오염 가능성 있는 원료 함유로 타코 회수",
+    "content": "-지역: 미국 CA, CO, AZ, GA, NC, NV, TN, UT, FL, LA, NM, MO, OK, DE, MD, PA, NJ-제품명: Sprouts Chicken Street Taco, 6 taco, 냉장보관. 상할 가능성 있음, 플라스틱 뚜껑이 있는 플라스틱 트레이에 포장됨, Net wt of 1.5lbs, UPC 205916813991. Sell by dates: 9/2/2024 ~ 11/7/2024.-회수사: Sprouts Farmers Market (회수중, 회수일: 10/11/2024)-회수사유: 리스테리아 오염으로 회수를 개시한 조리된 닭고기가 동 제품에 함유되었음",
+    "query": "Sprouts Chicken Street Taco의 회수 이유는 무엇인가요?",
+    "answer": "리스테리아 오염으로 회수를 개시한 조리된 닭고기가 동 제품에 함유되었음"
+  },
+  {
+    "id": 12,
+    "title": "[회수]호주 Lacuna Pharma Pty Ltd, 원재료 함량 오타로 구연산칼륨 회수",
+    "content": "- 일자: 2024.3.27(회수조치시행일)- 제품명 및 설명: K-Citra 10 Tablets Potassium Citrate 1080mg> 배치 번호: 42301133-B> 유통기한 번호(Expiry number): 02/2026> ARTG 405527 (K-Citra 10)- 회수사(Responsible Entity(*)): Lacuna Pharma Pty Ltd * 회수 조치의 책임이 있는 스폰서/공급자/수입자를 나타냄- 회수사유: 배치 42301133-B의 제품 라벨에 오타가 발생하여 '칼륨 당량(Equivalent Potassium)'과 '구연산 당량(Equivalent Citrate)'의 농도가 잘못 표시됨. 이 오류는 제품의 ARTG 항목에 '칼륨 당량'과 '구연산 당량' 함량이 잘못되어 발생된 것임. 올바른 '칼륨 당량'의 농도는 390.6 mg이며, 올바른 '구연산 당량'은 629.4 mg임. ARTG에 들어가 있으며 제품 라벨에 표시된 잘못된 농도는 629.4 mg(칼륨), 390.6 mg(구연산)임. 제품 라벨 상의 제품 활성 원료에 대한 설명이 정확한 것임(예: '구연산칼륨 1080 mg').* 이전까지 발표되지 않은 정보로 한국 시간으로 24년 3월 28일 확인됨.",
+    "query": "Lacuna Pharma Pty Ltd가 회수하는 K-Citra 10 Tablets의 올바른 칼륨 당량은 얼마인가?",
+    "answer": "390.6 mg"
+  },
+  {
+    "id": 13,
+    "title": "[E/R]미국 Bazzini LLC, 알레르기 유발물질 땅콩 미표시로 아몬드버터 회수",
+    "content": "-지역: 미국 NY-제품명: Bazzini Raw Almond Butter Net Wt. 16 oz (454g) UPC Code 7506284009. 케이스당 12병 (Lot code 2E136, Best Before Date: Feb 15, 2025)-회수사: Bazzini LLC (회수중, 회수일: 7/11/2024)-회수사유: 알레르기 유발물질 땅콩 미표시",
+    "query": "Bazzini Raw Almond Butter의 회수 사유는 무엇인가요?",
+    "answer": "알레르기 유발물질 땅콩 미표시"
+  },
+  {
+    "id": 14,
+    "title": "[E/R]미국 Wegmans Food Markets, Inc., 미표시된 알레르기 유발물질 밀 함유로 쿠키 회수",
+    "content": "-지역: 미국 NY, PA, NJ, MD, MA, VA, NC, DE and DC-제품명: Outrageous Oat Cookies. 5pk 및 Bulk 포장(Outrageous Oat Cookie 5pk UPC: 0-77890-56618-3 Wegmans Cookies by the Lb Outrageous Oat Cookie only UPC: 2-08165-00000-6 2-08256-00000-7)-회수사: Wegmans Food Markets, Inc. (회수중, 회수일: 1/9/2024)-회수사유: 미표시된 알레르기 유발물질 밀 함유",
+    "query": "Wegmans Food Markets, Inc.에서 회수하는 Outrageous Oat Cookies의 회수 사유는 무엇인가요?",
+    "answer": "미표시된 알레르기 유발물질 밀 함유"
+  },
+  {
+    "id": 15,
+    "title": "[회수]미국 Ralph's Packing Company, 오표시 및 알레르기 유발물질 우유 미표시로 볼로냐 회수",
+    "content": "- 일자: 2024.12.20.- 유통지역: 미국 Oklahoma 소재 소매점 및 식품서비스 지점에 배송되었으며, 일부 제품은 소매 델리카운터에서 잘라서 판매되었을 수 있음.- 회수사: Ralph's Packing Company- 제품명: 2022년 9월 이후 생산된 다음의 제품으로, 냉동되었을 수 있음.- 회수사유: 오표시 및 알레르기 유발물질 우유 미표시. 동 제품은 표시되지 않은 알레르기 유발물질 우유를 함유하였을 수 있음.1) 16-oz. (1 LB) 또는 다양한 중량(16-oz. 보다 큼) 처브 진공 포장. “Ralph’s CIRCLE R BRAND GARLIC BOLOGNA”. lot codes 0093, 0654, 0804, 1074, 1153, 1224, 1374, 1774, 1924, 2572, 2974, 3132, 3483.2) 16-oz. (1 LB) 또는 다양한 중량(16-oz. 보다 큼) 처브 진공 포장. “Ralph’s CIRCLE R BRAND GARLIC BOLOGNA with Jalapenos”. lot codes 0804, 1074, 1224, 1233, 1354, 2184, 3374.- 시설번호: EST. 51557(농무부 검사마크에 표시되어 있음)- 제품사진: https://www.fsis.usda.gov/sites/default/files/food_label_pdf/2024-12/Recall-033-2024-Label.pdf- 기타: 동 제품의 섭취로 인한 부작용 반응은 보고된 바 없음.",
+    "query": "Ralph's Packing Company의 회수된 볼로냐 제품은 어떤 알레르기 유발물질을 표시하지 않았나요?",
+    "answer": "우유"
+  },
+  {
+    "id": 16,
+    "title": "[회수]호주 ByAsia Food, 글루텐프리 오표시로 소스류 2종 회수",
+    "content": "-일자: 2024.05.24-유통지역: 호주 -회수사: HAN YANG IMPORT  EXPORT PTY LTD ('ByAsia Food' 상호 사용)-제품명:▲ O'Food Korean Bbq Bulgogi Beef Marinade 280g (품질유지기한(Best Before): 2025.04.16)▲ O'Food Korean BBQ Spicy Pork Marinade 280g (품질유지기한(Best Before): 2025.03.10)-판매업체: Woolworths, Coles Asian Grocers 및 개별 소매업체-회수사유: 잘못된(incorrect) 글루텐프리 강조표시-제품사진: 원문참조-참고: https://www.foodstandards.gov.au/sites/default/files/2024-05/By%20Asia%20Food-%20O%27Food%20Marinade%20Products%20280g%20Recall%20Notice.pdf",
+    "query": "O'Food Korean Bbq Bulgogi Beef Marinade의 품질유지기한은 언제인가요?",
+    "answer": "2025.04.16"
+  },
+  {
+    "id": 17,
+    "title": "[E/R]미국 NRS Enterprises, Inc. dba Sunflour Bakery, 색소첨가물 Yellow #5 미표시 및/또는 알레르기 유발물질 호두 등 미표시로 케이크 7종 회수",
+    "content": "-지역: 미국 CA.-회수사: NRS Enterprises, Inc. dba Sunflour Bakery (회수중, 회수일: 3/8/2024)-회수사유: 색소첨가물 Yellow #5 미표시 및/또는 알레르기 유발물질 호두 등 미표시-제품명: 투명한 폴리백에 포장된 다음의 제품 1) German Home Bakery Hazelnut Coffee Cake, 16 oz,(유통기한(Pull date): 03/08/2024) 회수사유: 색소첨가물 Yellow #5 미표시 및는 알레르기 유발물질 호두 미표시2) Sunflour Bakery Banana Nut Sweet Bread, 16 oz,(유통기한(Pull date): 03/19/2024) 회수사유: 색소첨가물 Yellow #5 미표시 및 알레르기 유발물질 대두(콩가루) 미표시3) Marzipan/Almond Coffee Cake, 16 oz,(유통기한(Pull date): 03/08/2024) 회수사유: 색소첨가물 Yellow #5 미표시4) German Home Bakery Apple Coffee Cake, 16 oz,(유통기한(Pull date): 03/08/2024) 회수사유: 색소첨가물 Yellow #5 미표시5) German Home Bakery Cherry Coffee Cake, 16 oz,(유통기한(Pull date): 03/08/2024) 회수사유: 색소첨가물 Yellow #5 미표시6) German Home Bakery Raspberry Coffee Cake, 16 oz,(유통기한(Pull date): 03/08/2024) 회수사유: 색소첨가물 Yellow #5 미표시7) German Home Bakery Poppy Coffee Cake, 16 oz,(유통기한(Pull date): 03/08/2024) 회수사유: 색소첨가물 Yellow #5 미표시",
+    "query": "NRS Enterprises, Inc. dba Sunflour Bakery가 회수하는 케이크의 유통기한은 언제인가요?",
+    "answer": "03/08/2024 또는 03/19/2024"
+  },
+  {
+    "id": 18,
+    "title": "[E/R]미국 OS Holding Inc, 제품명 오표시로 인한 알레르기 유발물질 참깨 함유로 샐러드 회수",
+    "content": "-지역: 미국  AK, ID, MT, ND, NV, OR, UT, WA, WY-제품명: 병은 Johnny's Parmesan Garlic Seasoning으로 표시됨, 5oz (141g), 플라스틱 병 포장, 녹색 스파이스 뚜껑(spice cap) >UPC 0 70381 10060 6.  >라벨에 다음 내용 포함 'CONTAINS: MILK. MANUFACTURED IN A FACILITY THAT ALSO PROCESSESS PROUCT CONTAINING WHEAT, SOY, SESAME AND EGG.' >마스터 케이스(Master Case)는 'D-60014 Johnny' s Salad  Pasta Elegance Seasoning, 6-5.5oz. bottles (2.06 lb), Item 31392-XB03. UPC 0 70381 60014 4'로 올바르게 표시됨.>병 하단에 'Johnny's Parmesan Garlic 5oz: 품질유지기한(BB) 04MAR26 0644 19:48 to 21:41' 표시됨>'Johnny's Salad  Pasta Elegance Seasoning' 마스터 케이스: 품질유지기한(Best Before): 04/03/26, 31392-XB03. Lot # M003657.>Ink Jet Start of Run: 품질유지기한(BB) 04MAR26 0644 17:28 to 21:41.>마스터 케이스 라벨의 품질유지기한 형식은 DD/MM/YY 임.-유통사: Johnny s Fine Foods Inc. 319 E. 25th St. Tacoma, WA 98421. -회수사: OS Holding Inc (회수중, 회수일: 5/1/2024)-회수사유: 알레르기 유발물질 참깨 미표시. 'Johnny's Salad  Pasta Elegance' 제품이 'Johnny's Parmesan Garlic Seasoning'으로 오표시됨. Johnny's Parmesan Garlic 라벨이 참깨를 미표시했으나 참깨가 제품 속에 보임.",
+    "query": "Johnny's Parmesan Garlic Seasoning 제품의 회수 사유는 무엇인가요?",
+    "answer": "알레르기 유발물질인 참깨가 라벨에 표시되지 않았기 때문입니다."
+  },
+  {
+    "id": 19,
+    "title": "[회수]뉴질랜드 Kiwi Treasure Trading Limited, 미표시된 알레르기 유발물질 땅콩 함유로 중국산 즉석 면류 회수",
+    "content": "*관련 기수집정보: [회수]캐나다 Five Continents International Ltd., 미표시된 알레르기 유발물질 땅콩 함유로 즉석 면류 회수(수집일자: 2024-07-04) -일자: 2024-07-09-유통지역: 뉴질랜드 전역 특정 아시아 식료품점(Asian Grocery stores) 및 온라인. 동 제품은 재수출되지 않았음.-회수사: Kiwi Treasure Trading Limited-원산지(수출국): 중국-제품명: 라벨에 땅콩이 표시되어 있지 않은 모든 배치 및 일자. 5봉입 플라스틱 포장 및 낱개 플라스틱 그릇으로 판매됨.1) Baixiang brand Artificial Chicken Soup Flavor Instant Noodle Packet (555g – 5x 111g Package)2) Baixiang brand Artificial Chicken Soup Flavor Instant Noodle Bowl (107g)3) Baixiang brand Artificial Pork Bone Soup Flavour Instant Noodle Packet (565g – 5x 113g Package)4) Baixiang brand Artificial Pork Bone Soup Flavour Instant Noodle Bowl (108g)-회수사유: 미표시된 알레르기 유발물질 땅콩 함유-제품사진: 원문참조-참고: https://www.mpi.govt.nz/assets/notification-attachment/foodrecall/Noodles-POS-09.07.2024.pdf-기타: 동 회수는 Baixiang 브랜드의 다른 제품은 해당되지 않음",
+    "query": "뉴질랜드에서 회수된 Baixiang 브랜드 즉석 면류의 회수 사유는 무엇인가요?",
+    "answer": "미표시된 알레르기 유발물질 땅콩 함유로 회수되었습니다."
+  },
+  {
+    "id": 20,
+    "title": "[E/R]미국 M & P Food Productions, Ltd., 미표시된 하위성분 밀 함유로 가공식품 회수",
+    "content": "-지역: 미국 CT, NJ, NY, FL, GA, MD, MI-회수사: M  P Food Productions, Ltd. (회수중, 회수일: 8/26/2024)-회수사유: 미표시된 하위성분 밀 등 함유-제품명: 1) MP Food Products ▲Cheese  Cherry Blintzes; Hand Made Russian Style; 6 Classic; NET WT. 14 OZ. (396g); ▲Cheese  Cherry Blintzes Net Wt. 14 OZ. (396g) UPC: 707163303257(08/27/2023 - 8/27/2024에 유통 Best before dates: 08/27/2024 08/27/2025) 회수사유: 미표시된 하위성분 밀 함유2) MP Food Products ▲Cheese Blintzes; Hand Made Russian Style; 6 Classic; NET WT. 14 OZ. (396g); UPC: 707163303251(08/27/2023 - 08/27/2024에 유통. Best before dates: 08/27/2024 08/27/2025) 회수사유: 미표시된 하위성분 밀 함유3) MP Delicacies PIROZHKI (PIES) with Black Currant; (08/27/2023 - 08/27/2024에 유통. Best before dates: 08/27/2024 08/27/2025) 회수사유: 미표시된 하위성분 밀, 우유 함유4) MP Delicacies PIROZHKI (PIES) with POTATOES; (08/27/2023 - 08/27/2024에 유통. Best before dates: 08/27/2024 08/27/2025) 회수사유: 미표시된 하위성분 밀, 우유 함유5) MP Delicacies PIROZHKI (PIES) with CABBAGE; (08/27/2023 - 08/27/2024에 유통. Best before dates: 08/27/2024 08/27/2025) 회수사유: 미표시된 하위성분 밀, 우유 함유 6) Sour Cherry Vareniki; MP Food Production; NET WT. 14oz; HANDMADE; UPC: 707163026150 (08/27/2023 - 08/27/2024에 유통. Best before dates: 08/27/2024 08/27/2025) 회수사유: 미표시된 하위성분 밀 함유7) Potato  Onion Vareniki; MP Food Production; NET WT. 14oz; HANDMADE; UPC: 707163026167(08/27/2023 - 08/27/2024에 유통. Best before dates: 08/27/2024 08/27/2025) 회수사유: 미표시된 하위성분 밀 함유8) Potato  Mushroom Vareniki; MP Food Production; NET WT. 14oz; UPC: 707163026174(08/27/2023 - 08/27/2024에 유통. Best before dates: 08/27/2024 08/27/2025) 회수사유: 미표시된 하위성분 밀 함유9) Farmer Cheese Vareniki; MP Food Production; NET WT. 14oz; HANDMADE; UPC: 707163026181(08/27/2023 - 08/27/2024에 유통. Best before dates: 08/27/2024 08/27/2025) 회수사유: 미표시된 하위성분 밀, 우유 함유",
+    "query": "M & P Food Productions, Ltd.의 가공식품 회수 사유는 무엇인가요?",
+    "answer": "미표시된 하위성분 밀 함유로 인해 회수되었습니다."
+  },
+  {
+    "id": 21,
+    "title": "[회수]뉴질랜드 Nishin Limited, 미표시된 알레르기 유발물질(글루텐 및 밀) 존재로 중국산 양념해초샐러드 회수",
+    "content": "-일자: 2024-10-30-유통지역: 뉴질랜드 전역-회수사: Nishin Limited-제품명: Nishin brand Seasoned Seaweed Salad (500g)-배치 및 일자 표시: 모든 배치 및 일자-회수사유: 미표시된 알레르기 유발물질(글루텐 및 밀) 존재-제품사진: 원문참조-기타: 중국에서 수입됨. 수출 내역 없음",
+    "query": "Nishin brand Seasoned Seaweed Salad의 회수 이유는 무엇인가요?",
+    "answer": "미표시된 알레르기 유발물질(글루텐 및 밀) 존재"
+  },
+  {
+    "id": 22,
+    "title": "[E/R]미국 EM Tortillas, LLC, 미표시된 알레르기 유발물질 밀 등 함유로 빵류 회수",
+    "content": "-지역: 미국 CA-제품명: Bulk Mexican sweet bread varieties. 다음 종류를 포함함: conchas, fino ellotes, fino curenos, danes ellotes, danes cuernos, bolillos, and teleras. 동 제품은 라벨이 없는 플라스틱(poly) 봉투에 포장됨.>코드정보: conchas, finos, Danes 제품은 403-REG; teleras 제품은 423-REG; bolillo 제품은 426-REG-회수사: EM Tortillas, LLC (회수중, 회수일: 10/3/2024)-회수사유: 미표시된 알레르기 유발물질 밀, 대두 및 달걀 함유",
+    "query": "EM Tortillas, LLC가 회수하는 제품의 종류는 무엇인가요?",
+    "answer": "Bulk Mexican sweet bread varieties로 conchas, fino ellotes, fino curenos, danes ellotes, danes cuernos, bolillos, and teleras를 포함합니다."
+  },
+  {
+    "id": 23,
+    "title": "[회수]호주 Primo Foods Pty Ltd, 알레르기 유발물질 우유 함유로 살라미 회수",
+    "content": "-일자: 2024.06.06.-유통지역: 호주 NSW, VIC, SA, WA, TAS 소재 Coles. NSW, QLD, VIC, SA, WA, TAS 소재 Woolworths. NSW, VIC, SA, NT 소재 IGA 및 SA 소재 Brave Logistics를 포함한 개별 소매점 -회수사: Primo Foods Pty Ltd-제품명: Primo Foods Pty Ltd - Primo - Mild Salami 25% Less Salt 80g. 품질유지기한(Best Before): 19/07/2024-회수사유: 알레르기 유발물질 우유 함유-제품사진: 원문참조-참고: https://www.foodstandards.gov.au/sites/default/files/2024-06/Primo%20Mild%20Salami%2025%25%20Less%20Salt%2080g%20Recall%20notice%20PDF%20%5B665%5Dkb.pdf",
+    "query": "Primo Foods Pty Ltd의 Mild Salami 25% Less Salt 80g 제품이 회수된 이유는 무엇인가요?",
+    "answer": "알레르기 유발물질인 우유 함유로 인해 회수되었습니다."
+  },
+  {
+    "id": 24,
+    "title": "FAO/WHO 합동잔류농약 전문가회의, 2023 식품 중 잔류농약 독성평가 회의 보고서 게재",
+    "content": "유엔식량농업기구(FAO) 식품환경잔류농약전문가패널과 세계보건기구(WHO) 잔류농약 핵심 평가그룹의 연례 합동잔류농약전문가회의(JMPR)가 미국 워싱턴 D.C.에서 2023년 9월에 개최되었음. 동 회의는 식품 중 잔류농약으로 인해 발생할 수 있는 인체 위해성을 평가하고자 전문가들이 공동으로 연구를 수행해야 한다는 이전 회의의 권고에 따라 열렸으며, FAO와 WHO의 관리 기관이 이를 수용했음. 'FAO 식품 중 잔류농약 전문가 패널'은 회의에서 다음과 같은 역할을 담당함: △농약 사용 패턴(우수농업관행 사용) 검토, △농약의 화학 및 구성 데이터와 잔류농약 분석 방법 검토, △우수농업관행에 따른 농약 사용 결과 발생할 수 있는 최대 잔류물 수준 추정 방법 * 보고서: 「Pesticide residues in food 2023: Joint FAO/WHO meeting on pesticide residues. Evaluation Part II –Toxicological.」https://iris.who.int/bitstream/handle/10665/379455/9789240099302-eng.pdf?sequence=1 <보고서에서 다룬 농약>1,4-디메틸나프탈렌(1,4-Dimethylnaphthalene), 카보퓨란(Carbofuran), 카보설판(Carbosulfan), 사이안트라닐리프롤(Cyantraniliprole), 에마멕틴벤조에이트(Emamectin benzoate), 플로릴피콕사미드(Florylpicoxamid), 이프로디온(Iprodione), 아이소플루시프람(Isoflucypram), 아이소티아닐(Isotianil), 메피쾃클로라이드(Mepiquat chloride), 프로클로라즈(Prochloraz), 티오파네이트메틸(Thiophanate-methyl), 트리사이클라졸(Tricyclazole)",
+    "query": "2023년 FAO/WHO 합동잔류농약 전문가회의는 어디에서 개최되었나요?",
+    "answer": "미국 워싱턴 D.C."
+  },
+  {
+    "id": 25,
+    "title": "미국, 식품의약품청 실사에 따르면 에콰도르의 시나몬 애플소스 파우치 제조업체는 한 번도 중금속 검사를 실시하지 않아",
+    "content": "미국 식품의약품청(FDA)은 최근 실사를 통해 현재 회수 중인 시나몬 애플소스 파우치 제조업체가 자사 제품 중 중금속에 대한 검사를 단 한 번도 실시하지 않았음을 발견함. CBS News가 정보요청의 자유에 따라 입수한 문서에 요약된 FDA의 인용은 12월에 Austrofood S.A.S(사)가 운영하는 에콰도르의 과일퓌레 공장 실사 후 나온 것임. FDA는 업체가 애플소스 제품 생산 과정을 분석할 때 구입한 시나몬이 제품을 오염시킬 수 있는 위험을 완화하기 위한 계획을 세우는 데 두 번 실패했다고 밝혔음. FDA 조사관은 “또한 업체는 원료나 최종제품의 중금속에 대해 샘플링을 하거나 테스트를 하지 않았다. 게다가 미국 FDA가 수행한 샘플링에서는 최종제품에서 높은 수준의 납이 확인되었다.”라고 말했음. WanaBana 대변인은 논평 요청에 즉시 응답하지 않았음.",
+    "query": "FDA 실사에서 Austrofood S.A.S가 운영하는 공장에서 발견된 문제는 무엇인가?",
+    "answer": "Austrofood S.A.S가 운영하는 공장에서 중금속 검사를 단 한 번도 실시하지 않았고, 시나몬이 제품을 오염시킬 수 있는 위험을 완화하기 위한 계획을 세우는 데 두 번 실패했으며, 최종제품에서 높은 수준의 납이 확인되었다."
+  },
+  {
+    "id": 26,
+    "title": "영국, 유럽연합 탈퇴 이후 특정 식품 중 일부 활성물질의 최대잔류허용기준 크게 증가해",
+    "content": "영국 언론 Guardian에 따르면, 영국의 유럽연합(EU) 탈퇴, 즉 브렉시트 이후 북아일랜드를 제외한 잉글랜드, 웨일스, 스코틀랜드의 특정 식품 유형에 대한 일부 활성물질 최대잔류허용기준(MRL)이 급증했으며, 일부 식품에 대해서는 수천 배까지 증가한 것으로 분석되었음. 영국의 규정 변경으로 감자에서 양파, 포도에서 아보카도, 커피에서 쌀에 이르기까지 100개 이상의 품목이 일반 대중에게 판매될 때 더 많은 살충제를 사용할 수 있게 되었음. 차의 경우 살충제 클로란트라닐리프롤(Chlorantraniliprole)과 살균제 보스칼리드(Boscalid)의 MRL이 4,000배 높아졌음. 세계보건기구(WHO)에서 '인체발암추정물질'로 분류되어 논란이 되고 있는 제초제 글리포세이트의 경우 콩에 대한 MRL이 7.5배 높아졌음. 이러한 변경은 2022년에서 2024년 사이 진행되었음. 구체적으로 49가지 농약에 대한 MRL이 약화되었고 그 중 15가지 농약은 영국 농약행동네트워크(Pan UK)가 국내 및 국제 당국의 데이터를 바탕으로 작성한 '매우 위험한 농약' 목록에 포함되어 있다고 함(*). (*) 영국 농약행동네트워크의 관련 정보 링크: https://www.pan-uk.org/food-safety-limits/",
+    "query": "브렉시트 이후 영국에서 차의 살충제 최대잔류허용기준은 어떻게 변경되었나요?",
+    "answer": "차의 경우 살충제 클로란트라닐리프롤(Chlorantraniliprole)과 살균제 보스칼리드(Boscalid)의 최대잔류허용기준(MRL)이 4,000배 높아졌습니다."
+  },
+  {
+    "id": 27,
+    "title": "캐나다 식품검사청, 특수 육류, 수산물 및 설탕/당밀 중 독성 금속 검사 결과 발표",
+    "content": "캐나다 식품검사청(CFIA)은 CFIA의 정기적인 검사 대상이 아닌 식품 중 금속 수준에 대한 검사 데이터의 기준치를 추가적으로 설정하고자 2021년 4월 1일부터 2022년 3월 31까지 표적 조사(targeted survey)를 진행함.  총 422개의 특수 육류, 수산물 및 설탕/당밀 샘플을 캐나다 11개 도시의 소매점에서 수집하여 금속/원소에 대한 검사를 진행했음. 가장 우려되는 금속(비소, 카드뮴, 납, 수은)의 결과만 포함되었음. 납의 검출률이 가장 낮았고 비소의 검출률이 가장 높았음. 대부분(85%)의 샘플에서 하나 이상의 금속이 검출되었으며 24%의 샘플에서는 네 가지 독성 금속 모두의 흔적이 검출되었음. 수산물 샘플에서 가장 높은 금속 수준이 검출되었으며 수산물 제품의 99.6%에서 최소 하나의 검출 수준의 금속이 발견되었음. 동 표적 조사에서 보고된 검출률과 금속 수준은 이전 유사 제품들에서 발견된 수준과 비견될 만함. 모든 어류 샘플에서 검출된 수은 수준은 어류 유형에 따라 0.5ppm 또는 1.0ppm의 기존 허용치를 충족하였음(100% 준수). 검사된 다른 제품에 대한 금속 수준에 대한 캐나다 규정은 없음. 캐나다 연방보건부(Health Canada)는 동 조사에서 분석된 샘플 중 그 어느 것도 금속으로 인한 건강 우려가 제기될만한 수준은 아니라고 판단함.",
+    "query": "캐나다 식품검사청의 조사에서 수산물 샘플의 금속 검출률은 어느 정도였나요?",
+    "answer": "수산물 샘플의 99.6%에서 최소 하나의 검출 수준의 금속이 발견되었습니다."
+  },
+  {
+    "id": 28,
+    "title": "[회수]뉴질랜드 Funing Trading Limited, 높은 수준의 비소(무기)로 중국산 건해조 회수",
+    "content": "-일자: 2024-10-01-유통지역: 원문 참조-회수사: Funing Trading Limited-제품명: Huaseed brand Dried Kelp Slices (200g)-배치 표시: \tBatch number SC/T 3202 -원산지: 중국-회수사유: 높은 수준의 비소(무기)-제품사진: 원문참조-참고: https://www.mpi.govt.nz/assets/notification-attachment/foodrecall/Kelp-POS-2.10.2024.pdf",
+    "query": "Huaseed brand Dried Kelp Slices의 회수 이유는 무엇인가?",
+    "answer": "높은 수준의 비소(무기) 때문이다."
+  },
+  {
+    "id": 29,
+    "title": "영국 식품기준청, 에틸렌옥사이드 오염 의혹 가운데 인도산 향신료 수입 검사 강화",
+    "content": "영국 식품기준청(FSA)의 수요일(5.15) 발표에 따르면, 전 세계 식품규제당국에서 두 브랜드에 대한 오염 의혹을 제기한 가운데 인도에서 수입되는 모든 향신료에 대한 추가 통제조치를 적용함. 지난 달 홍콩은 에틸렌옥사이드 농약을 다량 함유한 MDH와 Everest가 제조한 향신료 믹스 3종의 판매를 중단함. 싱가포르도 Everest 믹스 제품을 회수하였으며 뉴질랜드, 미국, 인도, 호주는 상기 두 브랜드와 관련된 이슈들을 조사중이라고 밝힘.  인도의 가장 인기있는 브랜드인 MDH와 Everest는 자사 제품이 소비하기에 안전하다고 밝힘. FSA는 정확한 조치사항이 무엇인지에 대해서는 자세히 설명하지 않음.",
+    "query": "영국 식품기준청이 인도산 향신료에 대해 어떤 조치를 취했나요?",
+    "answer": "인도에서 수입되는 모든 향신료에 대한 추가 통제조치를 적용함."
+  },
+  {
+    "id": 30,
+    "title": "뉴질랜드 The Brothers Green(사), 대마 가공 후 발생한 부산물을 동물 사료로 사용할 수 있도록 간청.. 농무부는 식품 안전에 위험할 수 있다고",
+    "content": "뉴질랜드 The Brothers Green(사)는 동물 사료로 사용될 수 있는 수많은 부산물을 덤핑한다고 함. The Brothers Green(사)는 대마 오일, 대마 씨(hearts) 그리고 대마 가루를 만들기 위해 대마를 가공함.  The Brothers Green(사)는 영양이 풍부한 사료를 매립지로 보내지 않고 동물 사료로 사용하고 싶다고 함.  뉴질랜드 농무부 앤드류 호가드 장관은 동물에게 대마나 대마 유래 물질을 먹이려면 농화합물 및 수의약품법에 따라 승인을 받아야 한다고 함. 그는 대마에는 뉴질랜드 법에 따라 통제되는 물질인 THC와 CBC가 소량 함유되어 있기 때문에 규제가 중요하다고 함.  \"THC와 CBD는 식품을 생산하는 동물이 이러한 화합물에 노출되는 것에 대해 충분히 조사되지 않았기 때문에 식품 안전 및 적합성과 동물 복지에 잠재적 위험을 초래할 수 있습니다.\" \"또한 THC, CBD와 관련된 뉴질랜드의 동물성 제품 거래에도 위험이 있으며, 이 화합물은 동물에게 흡수되어 육류와 우유에 존재할 수 있습니다.\" 호가드 장관은 동물 사료와 관련된 규제 변화는 없지만, 변화가 필요하다는 설득력 있는 새로운 증거가 있다면 이를 고려할 것이라고 함.",
+    "query": "The Brothers Green(사)가 대마 부산물을 동물 사료로 사용하려는 이유는 무엇인가?",
+    "answer": "The Brothers Green(사)는 영양이 풍부한 사료를 매립지로 보내지 않고 동물 사료로 사용하고 싶다고 함."
+  },
+  {
+    "id": 31,
+    "title": "영국 농약행동네트워크, 영국의 과일 및 채소에서 과불화화합물 검출돼",
+    "content": "영국 농약행동네트워크(PAN UK)는 영국 정부의 잔류물질 검사 프로그램 결과를 분석하였음. PAN UK는 포도, 체리, 시금치, 토마토를 포함한 과일과 채소에서 10가지 과불화화합물(PFAS) 잔류물질을 확인하였음. 딸기는 2022년 정부가 검사한 샘플 120개 중 95%에 PFAS 잔류물질이 들어있는 것으로 확인됨. PAN UK의 결과는 2011년과 2021년 사이 유럽의 과일과 채소에서 31가지의 PFAS 잔류물질이 검출된 PAN 유럽의 최근 연구를 잘 보여주고 있음. 영국과 마찬가지로 딸기는 2021년에 37%로 ‘영원한 화학물질’을 함유할 가능성이 가장 높은 EU산 농산물로 확인됨. 그러나 영국의 상황은 조금 더 심각하여, 2022년에 검사한 영국산 딸기 샘플 55개 중 91%에서 PFAS 잔류물질이 검출되었음.",
+    "query": "영국산 딸기에서 PFAS 잔류물질이 검출된 비율은 얼마인가요?",
+    "answer": "2022년에 검사한 영국산 딸기 샘플 55개 중 91%에서 PFAS 잔류물질이 검출되었습니다."
+  },
+  {
+    "id": 32,
+    "title": "[회수]캐나다 Les Aliments Amelya Impex Inc., 용기 결함 및 부패로 병아리콩 회수",
+    "content": "- 최초 발표 일자: 2024-12-20(최신 업데이트 일자: 2024-12-11)- 유통지역: 캐나다 Ontario, Quebec- 회수사: Les Aliments Amelya Impex Inc.- 제품 정보: 브랜드; 제품명; 중량; UPC; 코드> Elbalad; Chickpeas; 300 g; 8 683851 500183; PRD:2/8/2023, EXP:1/8/2025, Lot No 0076- 회수사유: 용기 결함 및 부패- 제품사진: -",
+    "query": "Les Aliments Amelya Impex Inc.에서 회수한 Elbalad 브랜드 병아리콩의 회수 사유는 무엇인가요?",
+    "answer": "용기 결함 및 부패"
+  },
+  {
+    "id": 33,
+    "title": "[E/R]미국 Colonna Brothers Inc., 높은 수준의 납으로 시나몬가루 회수",
+    "content": "-지역: 미국 전역-제품명: Ground cinnamon.  1) Supreme Tradition 브랜드 ground cinnamon. 2.25 oz. 검은 뚜껑의 플라스틱 병 포장. UPC: 639277656377  2) Marcum 브랜드 ground cinnamon. 1.5 oz. 검은 뚜껑의 플라스틱 병 포장. UPC:051933364035(Best By: 10/06/25 10A11 Best By 12/05/25 12 D8 Best By 12/05/25 12 D11)-회수사: Colonna Brothers Inc. (회수중, 회수일: 7/30/2024)-회수사유: 높은 수준의 납",
+    "query": "Colonna Brothers Inc.가 회수하는 제품의 이름은 무엇인가요?",
+    "answer": "Supreme Tradition 브랜드 ground cinnamon과 Marcum 브랜드 ground cinnamon입니다."
+  },
+  {
+    "id": 34,
+    "title": "미국 위스콘신주 데인 카운티, 10월 중 THC 오염 피자 등으로 최소 85명이 증상을 보였다는 보고서 발표",
+    "content": "미국 위스콘신주 매디슨 및 데인카운티 공중보건부(Public Health Madison and Dane County)의 보고서(*)에 따르면, 데인 카운티 Famous Yeti's Pizza의 THC 오염 피자를 섭취한 뒤 최소 85명이 증상을 보였다고 함. 동 보고서에 따르면, Famous Yeti's Pizza 직원들이 반죽을 위해 같은 빌딩 다른 사업체에서 기름을 빌렸을 때 오염이 발생한 것으로 추정됨. 피자가게의 소유주는 THC 혼입 기름은 공유주방(shared community kitchen)을 사용하는, 주의 면허를 받은 사업체의 것임을 조사관에 말했다고 함. 최종 보고서의 주요 내용은 다음과 같음.- 영향을 받은 사람들의 연령은 1-91세로, 8명의 어린이가 포함되었음- 임신 중이거나 모유 수유 중인 여성 몇 명은 증상을 경험했음- 33명은 증상으로 인해 의료전문가와 상담하였으며, 27명은 응급실에 방문하였고 3명은 최소 하루 입원하였음- 일반적인 증상은 현기증, 불안, 메스꺼움, 졸음, 심박수 증가, 피해망상, 공황발작, 구토가 있으며, 사람들은 1-83시간 유지된 증상을 보고했음 당국은 처음에 피자만 영향을 받았다고 생각했으나, 이후 샌드위치, 치즈빵, 마늘 피자에서도 오염물질이 확인되었음. (*) https://www.wpr.org/wp-content/uploads/2024/11/famous_yetis_pizza_final_report.pdf",
+    "query": "Famous Yeti's Pizza의 THC 오염 피자를 먹고 증상을 보인 사람은 몇 명인가요?",
+    "answer": "최소 85명이 증상을 보였습니다."
+  },
+  {
+    "id": 35,
+    "title": "[E/R]미국 Turkana Food Inc., 산성색소(Acid Red 18) 함유로 농산가공품 회수",
+    "content": "-지역: 미국 CA, CT, WI, IN, NJ, OH, FL, MA, RI, TX, IL, GA, TN, MD, PA,NJ, NC, MI, MN, VA, NY-회수사: Turkana Food Inc. (회수중, 회수일: 2/15/2024)-회수사유: 산성색소(Acid Red 18) 함유-제품명: 1) Sekeroglu Lokum Love Turkish Delight Mixed With Pistachio And Pomegranate Flavor Wrap Delight 350 grams UPC:8683454050627. 종이상자 포장. 케이스당 25상자.(Lot No: L 231023KRNJL, Item NO: 1903303; 소비기한(Exp Date): 10/22/24)2) Sekeroglu Lokum Love Turkish Delight With Pistachio And Pomegranate Flavor Double Roasted Delight 350 grams UPC:8683454050542. 종이상자 포장. 케이스당 25상자.(Lot No: L 231023NCKL, 소비기한(Exp Date): 10/22/24)",
+    "query": "Turkana Food Inc.의 회수 대상 제품은 무엇인가요?",
+    "answer": "Sekeroglu Lokum Love Turkish Delight Mixed With Pistachio And Pomegranate Flavor Wrap Delight 350 grams와 Sekeroglu Lokum Love Turkish Delight With Pistachio And Pomegranate Flavor Double Roasted Delight 350 grams입니다."
+  },
+  {
+    "id": 36,
+    "title": "[회수]캐나다 Loblaw Companies Limited, 플라스틱 이물 혼입으로 통후추 회수",
+    "content": "- 최초 발표 일자: 2024-12-06(최신 업데이트 일자: 2024-11-29)- 유통지역: 캐나다 전역- 회수사: Loblaw Companies Limited- 제품 정보: 브랜드; 제품; 크기; UPC; 코드; 추가 정보President's Choice ; Tellicherry Black Peppercorns ; 180 g ; 0 60383 97657 6 ; 소비기한: 2025년 5월 ~ 2026년 1월 17일- 회수사유: 플라스틱 이물 혼입- 제품사진: -",
+    "query": "President's Choice Tellicherry Black Peppercorns 제품의 회수 사유는 무엇인가요?",
+    "answer": "플라스틱 이물 혼입"
+  },
+  {
+    "id": 37,
+    "title": "[회수]뉴질랜드 Farro Fresh Food Ltd, 이물 혼입 가능성으로 라구맛 즉석섭취제품 회수",
+    "content": "-일자: 2024-10-15-유통지역: 뉴질랜드 Auckland(상세 정보는 원문 참조)-회수사: Farro Fresh Food Ltd-제품명: Farro Kitchen brand Pulled Lamb Shank Ragu (800g)-배치 표시: BEST BEFORE 18 OCT 24-회수사유: 이물 혼입 가능-제품사진: 원문참조",
+    "query": "Farro Kitchen brand Pulled Lamb Shank Ragu 제품의 회수 이유는 무엇인가요?",
+    "answer": "이물 혼입 가능"
+  },
+  {
+    "id": 38,
+    "title": "[E/R]미국 The Fillo Factory Inc., 알루미늄 이물 혼입 가능성으로 키슈 회수",
+    "content": "-지역: 미국 FL, CT 지역 유통센터 및 NY, FL, ME, SC, CT, MA 지역 소매점-제품명: Wellsley Farms Assorted Mini Quiches NET WT 36 OZ (2LB 4 OZ) 1.02kb UPC: 8867002630. 2 sealed trays 박스포장, 케이스당 10 박스(3483 BEST BY: 06/14/2025)-회수사: The Fillo Factory Inc. (회수중, 회수일: 12/28/2023)-회수사유: 알루미늄 이물 혼입 가능성",
+    "query": "Wellsley Farms Assorted Mini Quiches 제품의 회수 이유는 무엇인가요?",
+    "answer": "알루미늄 이물 혼입 가능성"
+  },
+  {
+    "id": 39,
+    "title": "[E/R]미국 The JM Smucker Company LLC, 플라스틱 조각 혼입으로 빵류 2종 회수",
+    "content": "-지역: 미국 전역-제품명: 1) Great Value Cheese Danish 16.5 oz UPC 078742201177, 케이스당 12개(소매용). Lot# L092525200 269X2) Great Value Cinnamon Rolls 16.5oz UPC 078742201160, 케이스당 12개(소매용). Lot # L092525200 269X-회수사: The JM Smucker Company LLC (회수중, 회수일: 11/1/2024)-회수사유: 플라스틱 조각 혼입",
+    "query": "Great Value Cheese Danish와 Great Value Cinnamon Rolls의 회수 이유는 무엇인가요?",
+    "answer": "플라스틱 조각 혼입"
+  },
+  {
+    "id": 40,
+    "title": "[회수]호주 Hazy Maze Pty Limited, 수분 침투로 인한 제품 외상 손상으로 집중력 향상제 회수",
+    "content": "- 일자: 2024-07-04(회수조치시행일)- 제품명 및 설명: Hazy Maze Focus Tablets> 배치 번호: B2878A> ARTG 387558- 회수사(Responsible Entity(*)): Hazy Maze Pty Limited * 회수 조치의 책임이 있는 스폰서/공급자/수입자를 나타냄- 회수사유: 호주 연방의료제품청(TGA)은 Hazy Maze Focus Tablets 재고가 소비자 민원으로 인해 제조사로 반납되어 재작업(reworked) 중임을 보고받음. 동 제품 태블릿(tablet) 코팅에 수분이 침투하여 외상이 깨져 보이므로 재작업이 필요함. 그러나 동 문제는 제품의 효험을 저하시키지 않음.",
+    "query": "Hazy Maze Focus Tablets의 회수 사유는 무엇인가요?",
+    "answer": "Hazy Maze Focus Tablets의 회수 사유는 태블릿 코팅에 수분이 침투하여 외상이 깨져 보이기 때문입니다."
+  },
+  {
+    "id": 41,
+    "title": "[회수]캐나다 T&T Supermarket Inc., 금속 조각으로 빵 다수 회수",
+    "content": "* 관련 기수집 정보: [확대회수]캐나다 Compass Minerals Canada Corp., 금속 조각으로 소금 회수(수집일자: 2024-11-20) - 최초 발표 일자: 2024-12-11(최신 업데이트 일자: 2024-12-02)- 유통지역: 캐나다 Alberta, British Columbia- 회수사: TT Supermarket Inc.- 제품 정보: 브랜드; 제품명; 크기; UPC; 코드 1) None; Frozen Plain Loaf; 80 g x 60 count; None; 2411072) None; Round Plain Bun; 80 g x 40 count; None; 241108, 241109, 2411103) None; Oval Plain Bun; 80 g x 36 count; None; 241109, 2411104) None; Plain Tray Bun; 40 g x 60 count; None; 241108, 241109, 2411105) None; Egg Tray Bun; 40 g x 60 count; None; 241108, 2411096) None; Coconut Bun; 120 g x 36 count; None; 2411097) None; HK Coconut Bun; 120 g x 35 count; None; 2411118) None; Sausage Bun; 120 g x 35 count; None; 2411089) None; BBQ Bun; 120 g x 35 count; None; 24110810) None; 60% Whole Wheat Bread; 276 g x 24 count; None; 24111211) None; Sweet Egg Bread; 276 g x 24 count; None; 241107, 241108, 24110912) None; Milk Bread; 276 g x 24 count; None; 241108, 24111113) None; Multi-grain bread; 276 g x 24 count; None; 24111114) None; Plain Bread; 276 g x 24 count; None; 241108, 24111115) None; Coconut Bread; 60 g x 12 count; None; 24111216) None; Coconut Red Bean Bread; 360 g x 12 count; None; 24111117) None; Wheat Germ Bread; 276 g x 24 count; None; 24111218) None; Small Bun; 80 g x 60 count; None; 241108, 241110, 241111- 회수사유: 금속 조각- 제품사진: -- 기타: 금속 조각으로 회수된  Sifto 브랜드 Hy·Grade Salt을 사용하여 이번 회수 제품을 만들었음.",
+    "query": "T&T Supermarket Inc.에서 회수한 제품의 회수 사유는 무엇인가요?",
+    "answer": "금속 조각"
+  },
+  {
+    "id": 42,
+    "title": "[확대회수]뉴질랜드 Venerdi Limited, 플라스틱 이물질 혼입 가능성으로  빵류 회수",
+    "content": "- 일자: 2024.03.04- 유통지역: 뉴질랜드 전역의 슈퍼마켓 및 소매점 - 회수사: Venerdi Limited   - 제품명: Gluten Freedom brand >Broken Black Rice  Polenta Sourdough (550g)>Splendid Sourdough English Muffins (280g)>Everything Sourdough Bagels (400g)- 일자표시: ​ >Broken Black Rice  Polenta Sourdough (550g) 품질유지기한 (BEST BEFORE) 19-12-2023 ~11-03-2024까지인 제품 >Splendid Sourdough English Muffins (280g) 품질유지기한 (BEST BEFORE) 20-12-2023 ~ 05-03-2024까지인 제품>Everything Sourdough Bagels (400g) 품질유지기한 (BEST BEFORE) 25-12-2023 ~ 05-03-2024까지인 제품- 회수사유: 플라스틱 이물질 혼입 가능성- 제품사진: 원문참조 - 기타: 호주로 수출됨",
+    "query": "Venerdi Limited가 회수하는 빵류의 회수 사유는 무엇인가요?",
+    "answer": "플라스틱 이물질 혼입 가능성"
+  },
+  {
+    "id": 43,
+    "title": "[회수]미국 Perdue Foods LLC, 금속 이물질 혼입 가능성으로 너겟 제품 3종 회수",
+    "content": "-일자: 2024-08-16-유통지역: 미국 전역 소매점 및 온라인 판매-회수사: Perdue Foods LLC-제품정보: 냉동 즉석 닭가슴살 너겟 및 텐더 제품 (총 회수 제품 중량 167,171 파운드; 제조일자: March 23, 2024; 시설번호: P-33944) ▶ PERDUE Simply Smart ORGANICS Breaded CHICKEN BREAST NUGGETS (포장: 22-oz. (1.38-lbs.) 진공플라스틱 포장; 소비기한: 03 23 25; UPC Bar Code: 0-72745-80656-8; Box Case End Label: 84656) ▶ PERDUE CHICKEN BREAST TENDERS (포장: 29-oz. (1.81-lbs.) 진공플라스틱 포장; 소비기한: 03 23 25; UPC Bar Code: 0-72745-80431-1; Box Case End Label: 82431)▶ BUTCHERBOX Organic Chicken Breast Nuggets (포장: 22-oz. (1.38-lbs.) 진공플라스틱 포장: 소비기한: 03 23 25; UPC Bar Code: 0-72745-80648-3; Box Case End Label: 80648)-회수사유: 이물질(금속) 혼입 가능성.   -제품사진: https://www.fsis.usda.gov/sites/default/files/food_label_pdf/2024-08/Recall-024-2024-Labels.pdf -기타: 제품 내 금속 와이어가 포함되어 있다는 소비자 신고 접수가 접수되었음. 현재까지 동 제품 섭취로 인해 보고된 부작용 보고는 없었음.",
+    "query": "Perdue Foods LLC가 회수하는 제품의 제조일자는 언제인가요?",
+    "answer": "2024년 3월 23일입니다."
+  },
+  {
+    "id": 44,
+    "title": "[회수]미국 Hannaford, 이물 혼입 가능성으로 육류 회수",
+    "content": "-일자: 2024.03.26.-유통지역: 미국 Niskayuna 소재 Hannaford 매장-회수사: Hannaford -제품명: Beef Shaved Steak B/S. UPC: 21122700000. Lot(s)/product sell by dates: March 27. -회수사유: 이물 혼입 가능성-제품사진: --기타: 3월 24일 일요일에 판매되었음.",
+    "query": "Hannaford에서 회수된 Beef Shaved Steak B/S의 유통기한은 언제인가요?",
+    "answer": "March 27."
+  },
+  {
+    "id": 45,
+    "title": "[회수]캐나다 Puresource Corp, 이물 존재 가능성으로 천연건강제품(호박씨유) 회수",
+    "content": "-최초 발표 일자: 2024-1-10 (최신 업데이트 일자: 2024-1-10)-제품정보 : 브랜드; 제품명; 시장 승인; 섭취(Dasage) 형태; 효능; LotNOW® Pumpkin Seed Oil 1000 mg; NOW Pumpkin Seed Oil 1000 mg; NPN 80005993; 연질 겔(Softgel); Pumpkin (Cucurbita pepo) (Seed Oil) 1000 mg; 3276548, 3286935-회수사 : Puresource Corp-회수사유 : 이물 존재 가능-제품사진 : -",
+    "query": "Puresource Corp가 회수하는 NOW Pumpkin Seed Oil 1000 mg의 회수 사유는 무엇인가요?",
+    "answer": "이물 존재 가능"
+  },
+  {
+    "id": 46,
+    "title": "[회수]캐나다 Island City Baking, 금속 조각으로 빵류 다수 회수",
+    "content": "* 관련 기수집 정보: [확대회수]캐나다 Compass Minerals Canada Corp., 금속 조각으로 소금 회수(수집일자: 2024-11-20) - 최초 발표 일자: 2024-12-03(최신 업데이트 일자: 2024-11-29)- 유통지역: 캐나다 Alberta, British Columbia, Manitoba, Ontario- 회수사: Island City Baking- 제품 정보: 브랜드; 제품명; 크기; 코드; UPC1) Island City Baking; Filoncini Semolina Cranberry; 4.5 kg; Production Date: 24-Nov-01; contains 0 0680129 04000 42) Island City Baking; Filoncini Roasted Garlic  Parmesan; 4.5 kg; Production Date: 24-Nov-08; contains 0 0680129 04002 83) Island City Baking; Traditional Filoncini; 4.5 kg; Production Date: 24-Oct-31, 24-Nov-06; contains 0 0680129 04010 34) Island City Baking; Sourdough Bread; 7.70 kg; Production Date: 24-Nov-05; contains 0 0680129 04050 95) Island City Baking; Cheddar  Asiago Cheese Bread; 10.9 kg; Production Date: 24-Oct-31, 24-Nov-01; 006801290405616) Island City Baking; Sourdough Loaf 567g Unsl; 9.07 kg; Production Date: 24-Nov-01, 24-Nov-04; 006801290405787) Island City Baking; Multigrain Country Loaf 5/8\"; 6.10 kg; Production Date: 24-Nov-01, 24-Nov-04; 006801290406608) Island City Baking; Sour Soup Pots; 5.65 kg; Production Date: 24-Oct-31, 24-Nov-04; contains 0 0680129 04069 19) Island City Baking; Roasted Garlic  Parmesan Bread; 7.00 kg; Production Date: 24-Nov-04; contains 0 0680129 04102 510) Island City Baking; Multigrain Bread; 7.00 kg; Production Date: 24-Nov-04, 24-Nov-05; contains 0 0680129 04106 311) Island City Baking; Sunflower  Flax seed Ciabatta 4x4 Sl; 7.20 kg; Production Date: 24-Nov-01; contains 0 0680129 04177 312) Island City Baking; Cranberry Walmnut Sourdough Loaf; 8.00 kg; Production Date: 24-Oct-31, 24-Nov-01; contains 0 0680129 04179 713) Island City Baking; Sourdough Homestyle 5/8\"; 6.00 kg; Production Date: 24-Nov-01, 24-Nov-05, 24-Nov-07; contains 0 0680129 04269 514) Island City Baking; Brioche Clubhouse 3/4\" Sl; 9.38 kg; Production Date: 24-Nov-01, 24-Nov-02, 24-Nov-05, 24-Nov-06, 24-Nov-09; 0068012904327215) Island City Baking; Sourdough WSP Loaf 5/8\"; 4.40 kg; Production Date: 24-Oct-31, 24-Nov-06; contains 0 0680129 04368 516) Island City Baking; Sour Cranberry Loaf 5/8\" Sl WSP; 4.91 kg; Production Date: 24-Oct-31, 24-Nov-01, 24-Nov-05, 24-Nov-08; contains 0 0680129 04371 517) Island City Baking; Marble Rye Loaf 5/8\" Sl WSP; 5.00 kg; Production Date: 24-Nov-04, 24-Nov-06; contains 0 0680129 04372 218) Island City Baking; Ciabatta Baguette 22\"; 8.50 kg; Production Date: 24-Nov-01; contains 0 0680129 04378 419) Island City Baking; Filoncini Bun 6.5\" Sl; 6.84 kg; Production Date: 24-Oct-31, 24-Nov-04, 24-Nov-05, 24-Nov-06, 24-Nov-07; contains 0 0680129 04385 220) Island City Baking; Multigrain Loaf 5/8\"; 9.6 kg; Production Date: 24-Oct-31, 24-Nov-01, 24-Nov-04, 24-Nov-06, 24-Nov-08; 0068012904390621) Island City Baking; Potato Hamburger Bun 4\" Sl; 6.30 kg; Production Date: 24-Oct-31; 0068012904397522) Island City Baking; Brioche Hamburger Bun; 4.48 kg; Production Date: 24-Oct-31, 24-Nov-01, 24-Nov-02, 24-Nov-04, 24-Nov-05, 24-Nov-06, 24-Nov-07; 0068012904409523) Island City Baking; Golden Brioche Slider Bun Sl; 3.60 kg; Production Date: 24-Nov-01, 24-Nov-04, 24-Nov-06, 24-Nov-08; contains 0 0680129 04435 424) Island City Baking; Filoncini Bun 6.5\" Unsl; 6.08 kg; Production Date: 24-Nov-02; contains 0 0680129 04516 025) Island City Baking; \"Potato Hamburguer 4\" Sl\"; 5.04 kg; Production Date: 24-Oct-31, 24-Nov-01, 24-Nov-05, 24-Nov-06, 24-Nov-07; contains 0 0680129 04539 926) Island City Baking; Sesame Hamburger Bun 4\"; 3.32 kg; Production Date: 24-Oct-31; contains 0 0680129 04601 327) Island City Baking; Artisan Sourdough Country Loaf 5/8\"; 5.02 kg; Production Date: 24-Nov-04; 0068012904614328) Island City Baking; Ciabatta 4\"x4\" Sl; 7.38 kg; Production Date: 24-Nov-07; contains 0 0680129 04627 329) Island City Baking; Brioche Hamburger Cluster Bun; 5.07 kg; Production Date: 24-Oct-31, 24-Nov-04, 24-Nov-06; 0068012904633430) Island City Baking; French Crustini Loaf 1/2\" Sl; 4.56 kg; Production Date: 24-Nov-01; 0068012904652531) Island City Baking; Brioche Ham BW Sesame Seeds 4.5\" Sl; 6.48 kg; Production Date: 24-Nov-01; contains 0 0680129 04653 232) Island City Baking; Moxie Brioche Bun 4\" Sl; 5.76 kg; Production Date: 24-Oct-31, 24-Nov-04, 24-Nov-06, 24-Nov-08; contains 0 0680129 04654 933) Island City Baking; Rustic Cheddar  Asiago Loaf; 8.55 kg; Production Date: 24-Oct-31, 24-Nov-04, 24-Nov-05; contains 0 0680129 04674 734) Island City Baking; Rustic Roasted Garlic Loaf; 8.55 kg; Production Date: 24-Nov-06; contains 0 0680129 04676 135) Island City Baking; Ciabatta 3\"x8\" Sl; 7.92 kg; Production Date: 24-Oct-31, 24-Nov-02, 24-Nov-05; contains 0 0680129 04900 736) Island City Baking; Brioche Hamburger Bun Sl; 7.38 kg; Production Date: 24-Oct-31, 24-Nov-01, 24-Nov-05; 0068012905006537) Island City Baking; Brioche Slider Bun Sl; 3.60 kg; Production Date: 24-Nov-01, 24-Nov-05, 24-Nov-06, 24-Nov-07, 24-Nov-09; contains 0 0680129 05016 438) Island City Baking; Marble Rye Square Loaf 5/8\"; 4.10 kg; Production Date: 24-Oct-31, 24-Nov-04; 0068012905115439) Island City Baking; Brioche Ham Bun 4.5\" Sl; 6.48 kg; Production Date: 24-Oct-31, 24-Nov-01, 24-Nov-05, 24-Nov-07; contains 0 0680129 05123 940) Island City Baking; Sourdough Clubhouse Bread 5/8\"; 10.3 kg; Production Date: 24-Nov-01, 24-Nov-03, 24-Nov-04, 24-Nov-05, 24-Nov-06; contains 0 0680129 05188 841) Island City Baking; Ciabatta 4\"x6\" Sl; 5.76 kg; Production Date: 24-Nov-01; contains 0 0680129 05236 642) Island City Baking; Marble Rye Clubhouse Bread 5/8\" Sl; 9.40 kg; Production Date: 24-Nov-02, 24-Nov-05, 24-Nov-06, 24-Nov-07; contains 0 0680129 05263 243) Island City Baking; Brioche Clubhouse Bread Unsl; 9.38 kg; Production Date: 24-Oct-31, 24-Nov-01, 24-Nov-05, 24-Nov-07; 0068012905269444) Island City Baking; Sourdough Country Loaf Unsl; 8.82 kg; Production Date: 24-Oct-31, 24-Nov-01, 24-Nov-06, 24-Nov-07; contains 0 0680129 05273 145) Island City Baking; Sourdough Country Loaf 5/8\" Sl; 8.82 kg; Production Date: 24-Nov-01, 24-Nov-05, 24-Nov-07; 0068012905295346) Island City Baking; CC Brioche Cluster Sl; 5.04 kg; Production Date: 24-Oct-31, 24-Nov-04, 24-Nov-06, 24-Nov-07; contains 0 0680129 05400 147) Island City Baking; Potato Buns Sl; 6.12 kg; Production Date: 24-Nov-05; contains 0 0680129 05490 248) Island City Baking; Brioche Sub Bun 10\" Unsl; 6.72 kg; Production Date: 24-Oct-31, 24-Nov-01; 0068012905655549) Island City Baking; Rosemary Focaccia; 8.00 kg; Production Date: 24-Oct-31, 24-Nov-06; contains 0 0680129 05703 350) Island City Baking; Brioche Hot Dog Sl; 5.04 kg; Production Date: 24-Nov-01, 24-Nov-04, 24-Nov-05; contains 0 0680129 05951 851) Island City Baking; White Homestyle (bread); 660 g; Production Date: 24-Nov-06; 6 80129 02820 052) Island City Baking; Whole Wheat Homestyle (bread); 660 g; Production Date: 24-Nov-01; 6 80129 02822 453) Island City Baking; Multigrain Homestyle (bread); 660 g; Production Date: 24-Nov-02; 6 80129 02824 854) Island City Baking; Parisian Brioche Hot Dog Bun SL; 2.80 kg; Production Date: 24-Nov-02, 24-Nov-07; contains 0 0680129 06019 455) Island City Baking; Everyday Traditional Sourdough (bread); 650 g; Production Date: 24-Nov-01; 6 80129 02860 656) Island City Baking; Bronze Age Spelt Wheat Sourdough (bread); 650 g; Production Date: 24-Nov-05; 6 80129 02861 3 - 회수사유: 금속 조각- 제품사진: -- 기타: 금속 조각으로 회수된  Sifto 브랜드 Hy·Grade Salt을 사용하여 이번 회수 제품을 만들었음.",
+    "query": "Island City Baking의 빵류가 회수된 이유는 무엇인가요?",
+    "answer": "금속 조각이 발견되어 회수되었습니다."
+  },
+  {
+    "id": 47,
+    "title": "[회수]미국 Costco, 소프트 플라스틱 필름 오염 가능성으로 와플 회수",
+    "content": "- 일자: 2024.09.06.- 유통지역: 미국 중서부- 회수사: Costco- 제품명: Kodiak Power Waffles Buttermilk  Vanilla, 40개입. UPC code: 705599019203, sell by date: Jan. 10, 2026. lot code: 24193-WL4.- 회수사유: 소프트 플라스틱 필름 오염 가능성- 제품사진: https://mobilecontent.costco.com/live/resource/img/static-us-pdf/KodiakFrozenPowerWafflesMemberLetter8-26-24.pdf",
+    "query": "Kodiak Power Waffles Buttermilk Vanilla 제품의 회수 이유는 무엇인가요?",
+    "answer": "소프트 플라스틱 필름 오염 가능성"
+  },
+  {
+    "id": 48,
+    "title": "[회수]캐나다 Eco Dollar Trading Ltd., 히스타민 존재로 건조 앤초비 회수",
+    "content": "- 최초 발표 일자: 2024-08-14 (최신 업데이트 일자: 2024-08-09)- 유통지역: 캐나다 British Columbia- 회수사: Eco Dollar Trading Ltd.- 제품 정보: 브랜드 ; 제품 ; 크기 ; 코드 ; UPC> Min Thar Gyi ; Dried Anchovies ; 200 g ; 15 July 2025 ; 8 834000 086809- 회수사유: 히스타민(histamine) 존재- 제품사진: -",
+    "query": "Eco Dollar Trading Ltd.에서 회수한 Min Thar Gyi 브랜드의 건조 앤초비 제품의 유통지역은 어디인가요?",
+    "answer": "캐나다 British Columbia"
+  },
+  {
+    "id": 49,
+    "title": "미국 FDA, 2024년 7월 수입부적합(2)",
+    "content": "-제조사식별번호: 3018621026-제조사명: M.E.CO.,LTD.  -주소지 1: 44 Won 3-Gil  -주소지 2: Mueul-Myeon  -도시명: Gumi  -지역명: Gyeongsangbuk  -국가: 대한민국-제품코드: 25SGC14  -제품설명: 팽이버섯(ENOKITAKE)-부적합일자: 09-Jul-2024  -FDA 지역사무소: DWCI  -통관 식별번호/참고문서/라인번호/기타: E4K-0078349-3/21/1-검체분석: 아니오-사설실험실분석: 네-부적합항목: 1) 위반코드3886-해외공급자검증프로그램 위반; 수입업체가 805절을 위반하였으므로 801(a)(3)절에 의거 통관이 거부된 제품임.2) 위반코드295-리스테리아; 유독, 유해물질인 리스테리아가 함유되어 건강에 해가 될 가능성이 있음. 식의약화장품법 관련 조항 402(a)(1), 801(a)(3); 변질",
+    "query": "M.E.CO.,LTD.에서 제조한 팽이버섯이 미국 FDA에 의해 부적합 판정을 받은 이유는 무엇인가요?",
+    "answer": "팽이버섯이 해외공급자검증프로그램 위반과 리스테리아 함유로 인해 부적합 판정을 받았습니다."
+  },
+  {
+    "id": 50,
+    "title": "유럽연합, 가금육 등의 EU 반입 허가를 위한 제3국·영토·지역 목록 중 미국 관련 시행규정 개정 고시",
+    "content": "유럽연합(EU)의 유럽집행위원회(EC)는 시행규정(EU) 2024/2817을 통해 가금류, 가금류 배아제품(germinal products), 가금류 및 야생 조류의 신선 육류 화물 EU 반입 허가를 위한 제3국·영토·지역 목록 중 미국과 관련하여 시행규정(EU) 2021/404의 부속서 V 및 XIV 개정을 고시함. [내용]제1조 시행규정(EU) 2021/404 개정시행규정(EU) 2021/404의 부속서 V 및 XIV는 동 규정의 부속서에 따라 개정됨. 제2조 발효 및 적용동 규정은 유럽관보(OJEU) 고시된 다음 날부터 발효됨. 동 규정은 완전한 구속력을 발휘하며 유럽연합 모든 회원국에 직접적으로 적용됨. [부속서](* 원문 참고)",
+    "query": "유럽연합의 새로운 시행규정은 언제부터 발효되나요?",
+    "answer": "유럽관보(OJEU) 고시된 다음 날부터 발효됩니다."
+  },
+  {
+    "id": 51,
+    "title": "유럽집행위원회, 새로운 집행위원 명단 발표... 식품안전 분야는 보건 집행위원 소관으로 유지",
+    "content": "유럽 언론 EURACTIV에 따르면, 유럽집행위원회(EC)의 집행위원장 폰데어라이엔은 2기(2024-2029) 집행위원 지명 명단과 정책분야를 발표하였으며, 농업 및 식량안보(agriculture and food security) 분야를 감독할 집행위원으로 룩셈부르크의 크리스토프 한센(Christophe Hansen)을 지명했다고 밝혔음. 폰데어라이엔은 한센에게 임기 첫 100일 이내, 즉 2025년 3월까지 이 분야에 대한 비전을 개발할 것을 주문했음. 향후 계획은 최근 식품 이해관계자들이 공동농업정책(CAP)의 토지 기반 보조금에서 소규모 농가에 대한 더 큰 지원으로 전환할 것을 촉구한 'EU 농업의 미래에 관한 전략적 대화'의 결과를 바탕으로 수립될 예정임.농업 담당 집행위원의 직책에 이전 임기의 '농촌개발(rural development)' 대신 '식품(food)'이 포함되었다고 해서 일부 이해관계자들이 기대했던 것처럼 한센 집행위원이 식품안전과 관련된 책임도 맡게 되는 것은 아님. 한센에 대한 집행위원장의 서한(*)은 “식량주권 강화”와 “중요 투입물과 원자재의 수입을 더욱 다양화하고 줄이는 것”에 초점을 맞춘 “식량안보(food security)”를 언급하고 있음.새로운 유전자편집 기술 및 살충제와 같은 농업 부문의 중요한 법안을 포함한 식품 안전은 분야는 유럽의회에서 확정되면 헝가리의 올리버 바헬리(Olivér Várhelyi) 보건집행위원이 다음 임기 동안 담당하게 될 것임. 또한 유기농 생산과 생물학적 통제를 강조하면서 음식물쓰레기를 예방하고 줄이는 것은 물론 “식품망 전반에 걸친 식품 생산의 지속가능성, 안전성 및 경제성”을 개선하는 임무도 맡게 될 것임(**).농업 분야의 핵심 이슈인 동물복지는 다시 보건 집행위원의 소관이 되지만, 더욱 중요하게 다뤄질 것임. 이 주제는 이제 '보건식품안전'이 아닌 '보건동물복지'가 될 집행위원의 직책에 포함되면서 관련성이 높아진 것으로 보임. 집행위원 지명자는 EU의 대표적 지속가능한 식품 정책인 '농장에서 식탁까지(Farm to Fork)'의 일환으로 케이지, 도축장 및 표시에 관한 새로운 규정을 포함하여 지연되고 있는 동물보호법 개편안을 발표할 것으로 예상됨. 한편, EURACTIV에 따르면 바헬리 집행위원 지명자는 10월에 예정된 청문회에서 떨어질 위험이 있다고 함. (*) 농업식품(Agriculture and Food) 집행위원 지명자 크리스토프 한센에 대한 미션레터: https://commission.europa.eu/document/download/2c64e540-c07a-4376-a1da-368d289f4afe_en?filename=Mission%20letter%20-%20HANSEN.pdf(**) 보건동물복지(Health and Animal Welfare) 집행위원 지명자 올리버 바헬리에 대한 미션레터: https://commission.europa.eu/document/download/b1817a1b-e62e-4949-bbb8-ebf29b54c8bd_en?filename=Mission%20letter%20-%20VARHELYI.pdf",
+    "query": "크리스토프 한센이 농업 및 식량안보 분야에서 임기 첫 100일 이내에 해야 할 일은 무엇인가?",
+    "answer": "크리스토프 한센은 임기 첫 100일 이내, 즉 2025년 3월까지 농업 및 식량안보 분야에 대한 비전을 개발해야 한다."
+  },
+  {
+    "id": 52,
+    "title": "미국 소비자제품위원회, 질식 위험으로 모든 롤러볼 캔디제품 구매 및 섭취 중단 경고",
+    "content": "미국 소비자제품안전위원회(CPSC)는 롤러볼 유형 캔디 유형의 제품과 관련된 질식 위험으로 소비자에 경고하고 있으며, 이러한 제품을 구매하거나 섭취하지 않도록 권고함. 캔디의 롤링볼이 떨어져 어린이의 목에 걸릴 수 있어 치명적인 질식 위험을 초래함. 지난해 이러한 위험으로 한 어린이가 사망했으며, 또 다른 어린이는 롤러볼을 제거하기 위한 긴급 수술을 받아야 했음. 위원회는 7세 여아의 질식 사망에 인용한 ‘Cocco Candy Rolling Candy’와 7세 남아의 질식 및 입원과 관련된 ‘Happiness USA Roller Ball Candy’ 제품을 포함하여 유사한 롤러볼 캔디제품에 대해 3건의 회수를 발표해왔음. 롤러볼 캔디에는 혀에 바르는 롤링볼 장치와 함께 향미를 더한 액상 캔디가 들어있음. 제품의 병은 플라스틱 뚜껑과 원통형 몸체를 비틀어서 다시 잠글 수 있음. 이러한 유형의 제품은 매장뿐만 아니라 주요 온라인 소매점에서도 판매됨. CPSC는 모든 수입업체, 유통업체 및 소매업체에 롤러볼 캔디 유형의 제품의 수입, 유통 및 판매를 즉시 중단할 것을 권고함. CPSC는 이러한 유형의 모든 캔디를 구매하거나 판매하지 않도록 소비자에 권고함. 소비자는 이러한 제품의 사용을 중단하고 폐기하여야 함.",
+    "query": "미국 소비자제품안전위원회가 경고한 롤러볼 캔디 제품의 위험성은 무엇인가?",
+    "answer": "롤러볼 캔디의 롤링볼이 떨어져 어린이의 목에 걸릴 수 있어 치명적인 질식 위험을 초래함."
+  },
+  {
+    "id": 53,
+    "title": "영국 식품기준청, 최신 소매 감시 조사 결과 식품 대부분은 안전",
+    "content": "영국 식품기준청(FSA)은 신규 발생 식품안전 위험 모니터링에 도움이 되는 연례 소매 감시 조사(Retail Surveillance Survey) 결과를 발표함. 소매 감시 조사는 잠재적 위험이 있다고 판단되는 곳과 FSA 정책 및 과학 정보 제공을 위해 샘플링이 필요한 곳을 대상으로 함. 2022년 10월에 실시된 조사에서 식품 샘플은 전국 슈퍼마켓과 소규모 독립 소매업체에서 구입했으며, 일부 샘플은 온라인에서 구입했음. 샘플은 미표시된 알레르기 유발물질, 오염물질, 이물, 부정확한 구성 및 오표시 여부를 테스트함. <결과>- 대형 식품 기업에서 테스트한 식품의 96%가 규제 요건을 충족하고 테스트 대상 법적 기준을 준수함- 전반적으로 테스트한 식품의 81%가 규제 요건을 충족하고 테스트 대상 법적 기준을 준수함- 테스트 식품의 진위 여부 비율은 97%였음- 규정 미준수에 대한 대체적 지리적 민감지역(hotspot)은 없었음 이번 표적 샘플링 프로그램의 일환으로 테스트한 대부분의 식품은 안전하고 진품이었으나, 알레르기 유발물질 미표시를 비롯한 몇몇 이슈가 있었음. 267가지 식품 조사 결과, 16% 식품이 미표시된 알레르기유발물질을 함유하였고, 아프리카 향신료의 27%가 미표시된 땅콩단백질을 함유하였으며, 직접판매용 사전 포장식품(PPDS) 47개중 17개의 테스트 결과 올바른 표시가 없는 알레르기유발물질을 함유하였음.",
+    "query": "영국 식품기준청의 소매 감시 조사에서 알레르기 유발물질 미표시 문제가 발견된 식품의 비율은 얼마인가요?",
+    "answer": "267가지 식품 조사 결과, 16% 식품이 미표시된 알레르기유발물질을 함유하였음."
+  },
+  {
+    "id": 54,
+    "title": "유럽집행위원회, 농식품 산업 생태계를 위한 전환 경로 문서 발표",
+    "content": "* 관련 기수집 정보: 유럽집행위원회, '책임 있는 식품사업 및 마케팅 실천을 위한 EU의 행동강령' 관련 'Mapping Report 2023' 발표 (수집일자: 2024-03-08) 유럽연합(EU)의 유럽집행위원회(EC)는 2024년 3월 11일 자 데일리뉴스의 첫 번째 정보를 통해 식품 가공기업에 초점을 맞춤 '농식품 산업 생태계를 위한 전환 경로(transition pathway for the agri-food industrial ecosystem)' 문서(*)를 발표함. 동 문서는 푸드시스템 접근법을 통해 가치 사슬 내 푸드시스템에 대한 당면 과제와 기회를 구체적으로 파악하고, 경쟁력 있고 지속 가능하며 탄력적이고 공정한 EU 농식품 시스템에 대한 기여를 강화하는 조치를 제안함. 또한 동 문서는 책임 있는 식품사업 및 마케팅 실천을 위한 EU의 행동강령을 채택하도록 장려하며, 이러한 전환을 지원하기 위해 동원할 수 있는 EU 정책과 프로그램을 제시하고, 국가 및 지역 당국도 이에 따라 정책을 동원할 것을 촉구함. * 문서 전문: https://single-market-economy.ec.europa.eu/document/download/a2d02a42-b7d4-4dfd-affb-0d9510dd405c_en?filename=Transition%20Pathway%20for%20the%20agri-food%20industrial%20ecosystem%20-%20final_en.pdf",
+    "query": "유럽집행위원회가 발표한 '농식품 산업 생태계를 위한 전환 경로' 문서의 주요 목적은 무엇인가?",
+    "answer": "해당 문서는 경쟁력 있고 지속 가능하며 탄력적이고 공정한 EU 농식품 시스템에 대한 기여를 강화하는 조치를 제안하는 것을 주요 목적으로 한다."
+  },
+  {
+    "id": 55,
+    "title": "EU Safety Gate, 위해비식품신속경보- 머그컵",
+    "content": "- 통보번호: INFO/00149/24 (통보발행 일자: 17/12/2024)- 통보국: 아일랜드- 원산지: 태국- 유형: 주방/조리용품(Kitchen/cooking accessories)- 제품유형: 머그컵(Mugs)- 제품명: Embossed Ceramic Mugs (배치넘버: 508747, 509012, 509201; 모델넘버: 02061, 02597, 02598, 02748; 바코드: 5390711025320, 5390711031727, 5390711031734, 5390711602569)- 브랜드: 기네스(Guinness) - 제품설명: 세라믹 머그컵; 다음 등의 온라인에서 판매됨( https://www.shamrockgiftcompany.com/ )- 제품사진: 원문참조- 위험유형: 화상(Burn)- 위험설명: 가마에서 완전히 소성되지 않았음. 이로 인해 머그잔 바닥이 갈라져 누수가 발생하고 사용자에게 화상을 입힐 수 있음.- 관련 미준수 법적 조항 및 유럽 표준: 동 제품은 일반제품안전지침(GPSD)의 요건을 준수하지 않음- 당국 조치: 최종소비자로부터 제품 회수 (발효: 2024년 11월 11일) (회수 웹페이지: https://www.shamrockgiftcompany.com/ )",
+    "query": "기네스 브랜드의 Embossed Ceramic Mugs가 회수된 이유는 무엇인가요?",
+    "answer": "가마에서 완전히 소성되지 않아 머그잔 바닥이 갈라져 누수가 발생하고 사용자에게 화상을 입힐 수 있기 때문입니다."
+  },
+  {
+    "id": 56,
+    "title": "유럽집행위원회 보건식품안전총국, 보스니아헤르체고비나 및 그리스 대상 우유 및 유제품 감사결과 발표",
+    "content": "유럽연합(EU)의 유럽집행위원회(EC) 소속 보건식품안전총국(DG SANTE)은 보스니아헤르체고비나 및 그리스 대상 우유와 유제품 통제 관련 감사결과를 담은 보고서를 발표하였음.  보스니아헤르체고비나는 EU로 특정 우유 및 원유로 만든 유제품을 수출하는 것이 승인되어 있으며, 우유 중 약리활성물질, 농약 및 오염물질에 관한 통제계획이 승인되어 있음. DG SANTE는 지난 2023년 6월 감사에서 계획 및 공식통제 결과 보고, 집행 및 후속조치 등 효과적인 협력과 조정을 위한 절차가 수립되지 않았으나, 이러한 미비점은 EU 등재 시설에 대한 당국의 정기적 통제로 인해 완화되었다고 밝혔음. 또한 EU 감사관은 우유 채유(collection) 시설 등록 요건이 일관되게 집행되지 않아 미등록 및 미승인 지역에서 유래한 원유가 EU행 제품에 사용되었다고 밝혔음. 마찬가지로 판(plate) 수 또는 체세포(somatic cell) 수에 대한 원유 기준이 일관되게 집행되지 않아 유제품 가공을 위한 규정을 준수하지 않는 원유가 승인되는 일도 있었다고 설명하였으며, 결과적으로 총 6가지 권고안이 작성되었음. 그리스의 경우 공식통제를 위한 적절한 법률 프레임워크가 구축되어 있으나, DG SANTE는 지난 2023년 3월 감사를 통해 총 10가지 권고안을 작성하였음. 공식통제는 위험 기반으로 계획되어 있으나, 충분한 수의 숙련된 직원에 대한 접근성, 당국 간의 조정, 시설 승인, 규정 위반이 확인된 경우의 조치, 통제 효과의 검증 등의 취약점으로 인해 영향을 받았음. 일부 문서에 따르면, 특정 시설은 이행하지 않는 활동에 대해 승인되어 있었으며, 감사관이 방문한 대다수의 업체는 통제 활동의 변화에 대해 당국에 알리지 않거나, 새로운 장비 또는 시설의 사용이 수년 지난 이후 통보한 것으로 확인되었음. 새로운 시설로 승인된 한 시설의 경우 그리스식품청(EFET)이 수행한 공식통제에서 여러 가지의 규정위반 사례가 확인되었으며, 행정/범죄 절차로 이어져 해당 시설은 최종적으로 폐쇄되었음.",
+    "query": "보스니아헤르체고비나의 우유 및 유제품 감사에서 발견된 주요 문제는 무엇인가?",
+    "answer": "우유 채유 시설 등록 요건이 일관되게 집행되지 않아 미등록 및 미승인 지역에서 유래한 원유가 EU행 제품에 사용되었고, 판 수 또는 체세포 수에 대한 원유 기준이 일관되게 집행되지 않아 유제품 가공을 위한 규정을 준수하지 않는 원유가 승인되는 문제가 발견되었다."
+  },
+  {
+    "id": 57,
+    "title": "미국 FDA, 2024년 6월 수입부적합(35)",
+    "content": "-제조사식별번호: 3018621026-제조사명: M.E.CO.,LTD.  -주소지 1: 44 Won 3-Gil  -주소지 2: Mueul-Myeon  -도시명: Gumi  -지역명: Gyeongsangbuk  -국가: 대한민국-제품코드: 25SGC14  -제품설명: 팽이버섯(ENOKITAKE)-부적합일자: 05-Jun-2024  -FDA 지역사무소: DWCI  -통관 식별번호/참고문서/라인번호/기타: E4K-0078262-8/11/1-검체분석: 아니오-사설실험실분석: 네-부적합항목: 1) 위반코드3886-해외공급자검증프로그램 위반; 수입업체가 805절을 위반하였으므로 801(a)(3)절에 의거 통관이 거부된 제품임.",
+    "query": "M.E.CO.,LTD.에서 제조한 팽이버섯이 수입 부적합 판정을 받은 이유는 무엇인가요?",
+    "answer": "해외공급자검증프로그램 위반으로, 수입업체가 805절을 위반하여 801(a)(3)절에 의거 통관이 거부된 제품입니다."
+  },
+  {
+    "id": 58,
+    "title": "미국 식품의약품청 부청장, FDA의 조직 개편으로 식품 관리 프로그램을 단일화하는 것이 투명성, 안전 및 협력에 도움될 수 있어",
+    "content": "지난 주 시카고에서 진행된 'IFT FIRST' 회의에서 미국 식품의약품청(FDA) Jim Jones 부청장은 \"FDA의 조직 개편은 더욱 투명하고 협동적인 접근법으로 모든 이해관계자들과 협력하여 전반적인 식품 시스템을 강화하고자 하는 FDA의 의지를 보여준다\"라고 말했음. <미생물학적 안전성에 대한 초점 강화>Jones 부청장은 미생물학적 안전성은 FDA의 주요 안건이며 AI 기술을 활용하여 수입 식품의 잠재적인 위해를 높은 정확도로 발견해낼 것이라고 밝혔음. 또한, SNS 데이터를 활용하여 빠르게 식중독 발생 여부를 파악하는 시범 사업도 진행 중인 것으로 알려짐. <영양을 우선시하고, 더욱 건강한 식품을 장려>Jones 부청장에 따르면 영양은 공중 보건의 매우 중요한 부분이며 FDA는 소비자들에게 더욱 건강한 식품의 섭취를 장려하고자 함. 이에 일환으로 식품 제조사의 자발적 나트륨 감소 목표, 현대 영양학을 반영한 \"healthy\" 식품 표시 조건 재정립 그리고 포장전면표시에 주요 영양소를 포함하는 방안을 추진 중임. 이러한 움직임은 소비자들이 식품을 고르는 데 있어 더욱 현명한 선택을 내릴 수 있도록 도움을 주기 위함임. <새로운 방법 및 정기적인 감시를 통해 화학적 안전성 강화>화학적 안전성 또한 FDA의 주요 안건이며 FDA는 식품 제조 중 사용되는 화학 물질에 대한 시판 후 검사 프로그램의 발전 그리고 위해 평가를 위해 사용되는 신규접근방법론(NAMs)의 필요성을 강조함. 이는 식품 중 화학 물질에 대한 검사와 잠재적 위해 평가를 보장하고 공중 보건을 보호함과 동시에 혁신을 이루어낼 것임.임시",
+    "query": "FDA는 식품의 미생물학적 안전성을 어떻게 강화하려고 하나요?",
+    "answer": "FDA는 AI 기술을 활용하여 수입 식품의 잠재적인 위해를 높은 정확도로 발견하고, SNS 데이터를 활용하여 빠르게 식중독 발생 여부를 파악하는 시범 사업을 진행 중입니다."
+  },
+  {
+    "id": 59,
+    "title": "호주 연방의료제품청, 간 손상과 연관 가능성 있는 가르시니아 캄보지아 또는 하이드록시시트르산 함유 제품(의약품)에 대한 권고",
+    "content": "호주뉴질랜드 연방의료제품청(TGA)은 가르시니아 캄보지아(Garcinia gummi-gutta (Garcinia cambogia)) 또는 하이드록시시트르산(HCA) 함유 의약품의 안전성에 대한 권고를 다음과 같이 게시함. (주요 사항)1. 가르시니아 캄보지아 또는 HCA를 함유한 의약품 및 허브 보충제는 드물게 간 손상을 유발할 수 있음. 동 위험은 HCA를 함유한 다른 원료와도 연관 있음: -Garcinia quaesita-하이드록시시트레이트 복합체(hydroxycitrate complex)-calcium hydroxycitrate-sodium hydroxycitrate 또는 -potassium hydroxycitrate2. 다음 중 해당하는 증상이 있으면, 상기 원료를 함유한 의약품 또는 허브 보충제의 섭취를 즉시 중단할 것을 권장함:-피부 또는 눈의 황달-어두운색의 소변-메스꺼움-구토-평소와 다른 피곤함-위약(weakness)-복부 통증-식욕 감소3. 현재 또는 과거에 간 관련 문제가 있었을 경우 가르시니아(Garcinia-) 관련 원료를 함유한 의약품 및 허브 보충제의 섭취를 피해야 함. (간 손상과의 드문 연관성)TGA는 과학적 문헌에 보고된 가르시니아 캄보지아/HCA 함유 제품 섭취와 관련 있는 간 손상 사례의 증가를 인지함. 과거 문헌에는 간 손상과 연관 가능성 있는 원료를 여러 개 기재했지만, 최근 발표된 문헌에는 간 손상 사례 중 가르시니아 캄보지아/HCA를 원인 가능성이 있는 단일 원료로 보고함. 이 사례 중 많은 경우가 중증이었고 입원이 필요했음. 특히 5건의 경우 간 이식이 필요했으며, 그중 한 건은 호주에서 발생함. 또한 다른 국가의 규제 기관에 보고된 간 손상 사례도 여러 건 있는 것으로 알려짐. TGA는 가르시니아 성분과 관련된 간 손상 가능성이 있는 소수의 보고를 받았음. 그러나 대부분의 보고에는 소비된 의약품에 대한 정보가 제한적이었으며, 일부 사례는 간 손상에 기여할 수 있는 다른 원료도 포함되어 있었음. 동 안전 우려에 대응하여, TGA는 가르시니아 캄보지아 및 그 자연 발생 성분인 HCA의 간 손상 위험에 대한 조사를 완료했음. 현재 보유한 증거에 따르면 가르시니아 캄보지아 또는 HCA를 섭취함으로써 간 손상의 드문 위험 가능성이 발견됨. 간 손상 우려는 다른 HCA 함유 원료에도 해당함. TGA는 동 문제를 계속 모니터링할 것이며, 라벨 경고 관련 요건 제안에 대한 의견수렴(*)을 포함한 추가 규제 조치를 고려하고 있음. TGA는 2024년 말에 동 의견수렴 결과 및 신규 라벨링 요건의 세부 사항을 발표할 예정임. (가르시니아 종에 대해)가르시니아 캄보지아 및 다른 HCA-원료를 함유한 의약품과 허브 보충제는 슈퍼마켓, 건강식품 매장 그리고 약국에서 처방전 및 의료 종사자의 상담 없이 구매 가능함. Garcinia gummi-gutta 및 Garcinia quaesita의 껍질은 자연적으로 HCA를 함유함. HCA는 추출되어 등재된 의약품의 활성 원료로 사용될 수 있으며 다른 가르시니아 관련 원료에도 존재함. 현재 동 원료를 1개 이상 함유한 의약품 50여 개가 호주치료제품등록부(ARTG)에 포함되어 있음. (소비자를 위한 정보)* 이하 번역 생략  (건강 전문가를 위한 정보)* 이하 번역 생략  (스폰서를 위한 정보)* 이하 번역 생략  (문제 보고)* 이하 번역 생략 (*) https://consultations.tga.gov.au/medicines-regulation-division/copy-of-low-neg-risk-2024-2025/",
+    "query": "가르시니아 캄보지아 또는 하이드록시시트르산 함유 제품이 간 손상과 관련이 있을 수 있다는 권고의 주요 내용은 무엇인가요?",
+    "answer": "가르시니아 캄보지아 또는 하이드록시시트르산 함유 의약품 및 허브 보충제는 드물게 간 손상을 유발할 수 있으며, 이러한 위험은 하이드록시시트르산을 함유한 다른 원료와도 연관이 있습니다. 간 손상 증상이 나타나면 즉시 섭취를 중단할 것이 권장됩니다."
+  },
+  {
+    "id": 60,
+    "title": "세계보건기구 유럽사무소, 유럽 내 비전염성질환의 상업적 결정요인에 관하여... 초가공식품과 알코올 포함",
+    "content": "세계보건기구(WHO) 유럽사무소는 '유럽 내 비전염성질환(NCD)의 상업적 결정요인' 보고서(*)를 게시함.  건강의 상업적 결정요인(Commercial determinants of health)이란 상업 부문 행위자, 그들의 제품과 관행이 건강에 영향에 미치는 방식을 일컬음. 특정 상업 부문의 활동에서 담배, 초가공식품, 알코올과 같은 유해한 제품 홍보 및 NCD 정책이행을 저해하는 다양한 전략을 사용함으로써 심혈관질환 및 암과 같은 NCD를 유발한다는 증거가 점점 더 증가하고 있음.  보고서의 목표는 아래와 같음: - WHO 유럽지역의 NCD 부담에 대한 인식 제고 및 이 과제에 대한 산업체 기여의 강조 - 지역의 NCD 관련 정책 방해에 산업체가 사용하는 기업 간섭 전략의 강조- NCD의 상업적 결정 요인에 정책입안자를 참여시키기 위한 가장 효과적인 접근법- 공중보건 커뮤니티를 상업적 간섭으로부터 더 잘 보호하는 방법의 전략 수립 (*)Commercial determinants of noncommunicable diseases in the WHO European Region. Copenhagen: WHO Regional Office for Europehttps://iris.who.int/handle/10665/376957",
+    "query": "세계보건기구 유럽사무소의 보고서가 강조하는 비전염성질환 관련 상업 부문의 활동은 무엇인가?",
+    "answer": "담배, 초가공식품, 알코올과 같은 유해한 제품 홍보 및 NCD 정책이행을 저해하는 다양한 전략을 사용하는 것."
+  },
+  {
+    "id": 61,
+    "title": "[식중독]캐나다 브리티시컬럼비아주 질병통제예방센터, 브리티시컬럼비아주 생굴 섭취로 인한 노로바이러스 유사 위장질환 64건 보고",
+    "content": "- 발생일자: 2024년 11월 1일-2024년 12월 18일- 발생지역: 캐나다 Vancouver Coastal Health, Fraser Health 및 Island Health 지역- 발생규모: 노로바이러스 유사 위장질환 사례 64명- 발생내용: 식당 및 소매점에서 생굴을 섭취한 뒤 설사, 구토 및/또는 복통 증상이 보고됨.- 기타: 일부는 응급실에 방문하였지만 입원은 하지 않았음.",
+    "query": "브리티시컬럼비아주에서 생굴 섭취로 인한 위장질환이 몇 건 발생했나요?",
+    "answer": "노로바이러스 유사 위장질환 사례 64명"
+  },
+  {
+    "id": 62,
+    "title": "유럽질병예방통제센터, 주간 전염병 보고서 발표... 캄보디아 조류인플루엔자 감염자 1명 사망 등",
+    "content": "유럽질병예방통제센터(ECDC)는 2024년 2월 16일 7주차(2024년 2월 11일 ~ 2024년 2월 17일) 주간 전염병 위험 보고서(CDTR, Communicable disease threats report)(*)를 발표함.     (* 일부 발췌)  △ 인플루엔자A(H5N1) - 다국가(전세계) - 인체감염 모니터링- 캄보디아 보건부는 2월 9일 및 12일, 1건의 사망을 포함하여 조류인플루엔자 인체감염 2건을 보고함. 2024년 캄보디아에서 총 4건의 감염이 보고되었음.- 클레이드 2.3.2.1.c가 사망 인체감염(3 번째 사례)에서 감지되었음.- 동 사건 관련 현재까지 사람 간 전이 사례는 보고되지 않았음.- 클레이드 2.3.2.1c 바이러스는 캄보디아에서 유행하고 있으며, 2023년 인체감염을 일으킨 바 있음.- 2004년 이후 전세계 총 23개 국가에서 886건의 조류인플루엔자A(H5N1) 인체감염이 보고되었으며, 그중 462명이 사망함(치명률 52%).- EU/EEA 지역 국가 내 일반 대중에 대한 인수공통 인플루엔자 전이 위험은 낮은 것으로 간주됨. 농부 및 살처분자(cullers)와 같이 직업적으로 노출된 집단에 대한 위험은 중저위험(low-to-medium)으로 간주됨. △ 계절성 인플루엔자A(H3N2) 및 조류인플루엔자A(H10N5) 인간 동시감염 사례 - 중국 - 2024- 2024년 2월 16일 업데이트: WHO에 따르면, 사망한 환자는 도축한 생 오리와 접촉한 것으로 확인되었으며, 잔여 육류 검사에서 A(H10N5)가 검출됨.(이하 생략) (*) https://www.ecdc.europa.eu/sites/default/files/documents/communicable-disease-threats-report-week-7-2024.pdf",
+    "query": "캄보디아에서 보고된 조류인플루엔자 인체감염 사례는 몇 건인가?",
+    "answer": "2024년 캄보디아에서 총 4건의 감염이 보고되었음."
+  },
+  {
+    "id": 63,
+    "title": "유엔식량농업기구, 건강에 해로운 식생활로 전 세계 농식품 시스템에서 발생하는 숨은 비용 연간 약 8조 달러",
+    "content": "156개국이 참여한 유엔 식량농업기구(FAO)의 '2024 세계식량농업보고서(SOFA)'(*)에 따르면 전 세계 농식품 시스템의 숨겨진 비용이 연간 약 12조 달러에 달하는 것으로 나타났음. 이 중 약 70%(8조 1,000억 달러)는 건강에 해로운 식생활로 인해 발생하며 심장병, 뇌졸중, 당뇨병과 같은 비전염성질환(NCD)과 관련이 있으며 환경 파괴 및 사회적 불평등과 관련된 비용을 훨씬 초과하는 것으로 드러남. 보고서는 2023년 판 SOFA 보고서를 기반으로 더욱 심층적인 분석을 제공하고자 실제 비용 회계를 활용하여 시장 가격에 반영되지 않은 이른바 '숨겨진 비용과 편익'을 포함하여 식량 생산, 유통 및 소비와 관련된 모든 비용과 편익을 공개함. 또한 이러한 비용 추정치를 업데이트하고, 이를 농식품 시스템 유형별로 나누어 농식품 시스템의 혁신적 변화를 위한 과정을 도표로 제시함. 보고서는 건강에 미치는 영향을 조사하며 통곡물, 과일/채소 섭취 부족, 나트륨 과다 섭취, 적색육 및 가공육 섭취 증가 등 13가지 식이 위험 요인을 식별하였음. (*) 보고서 다운로드: >웹버전: https://openknowledge.fao.org/bitstreams/994d8b45-f279-4411-8aa7-f45c667aa805/download >PDF: https://openknowledge.fao.org/bitstreams/75774813-6846-48fc-810d-9e35fa3c8b68/download",
+    "query": "유엔 식량농업기구의 2024 세계식량농업보고서에 따르면 건강에 해로운 식생활로 인해 발생하는 연간 숨은 비용은 얼마인가요?",
+    "answer": "약 8조 1,000억 달러입니다."
+  },
+  {
+    "id": 64,
+    "title": "[회수]호주 The Aussie Gelatin Company Pty Ltd, 높은 수준의 비타민 D 함유로 비타민 D 보충제 회수",
+    "content": "- 일자: 2024.11.15(회수조치시행일)- 제품명 및 설명: Nutraviva Joint  Bone Formulas, 320g1) Nutraviva Joint  Bone Formula – UnflavouredSKU: JBF.U.320.Batch: 02141Best before:15/06/20262) Nutraviva Joint  Bone Formula -Berry BlendSKU: JBF.BB.320.Batch: 01792Best before: 30/11/20253) Nutraviva Joint  Bone Formula – Berry BlendSKU: JBF.BB.320.Batch: 1148Best before: 26/11/2024- ARTG: 미등록- 회수사(Responsible Entity(*)): The Aussie Gelatin Company Pty Ltd * 회수 조치의 책임이 있는 스폰서/공급자/수입자를 나타냄- 회수사유: Nutraviva Joint  Bone Formula 3개 배치에 높은 수준의 비타민 D(섭취량(dosage) 당950~1075mcg))가 포함되어 있는 것으로 나타났으며, 이는 라벨에 명시된 것보다 많음.이 수준은 처방용 비타민 D 보충제에 적합하며 제품 라벨에 명시된 수준을 초과함.사용자는 섭취 기간 동안 분말을 소화함으로써 잠재적 위험 및 관련 위험에 노출됨. 확인된 배치 제품의 섭취를 중단하면 위험을 완화할 수 있음.",
+    "query": "Nutraviva Joint Bone Formula 제품의 회수 사유는 무엇인가요?",
+    "answer": "Nutraviva Joint Bone Formula 3개 배치에 높은 수준의 비타민 D가 포함되어 있어 라벨에 명시된 것보다 많기 때문입니다."
+  },
+  {
+    "id": 65,
+    "title": "세계보건기구, 2023년 기준 전 세계 트랜스지방 제거 최신 현황 보고서 게시",
+    "content": "세계보건기구(WHO)는 2018-2023년 기간 전 세계 트랜스지방 제거를 향한 진전상황에 대한 다섯 번째 중요단계 보고서를 발표함.(*)  2023년을 기준으로, 총 53개 국가가 식품의 산업 공정에서 생성되는 트랜스지방을 저감하고자 우수규범(best practice) 정책을 시행 중에 있으며, 전 세계 인구의 46%인 37억 명의 식품 환경이 크게 개선되었음.  비록 WHO가 2018년에 설정한 '2023년 말까지 전 세계 식품공급 내 트랜스지방의 완전한 제거' 목표는 달성되지 못했지만, 2023년에만 7개국(이집트, 멕시코, 나이지리아, 북마케도니아, 필리핀, 몰도바, 우크라이나)에서 새로운 우수규범 정책이 시행되어 여러 국가에서 상당한 진전이 있었음.  2024년 1월에는 트랜스지방 제거에 진전을 이룬 국가에 수여하는 인증서를 덴마크, 리투아니아, 폴란드, 사우디아라비아, 태국에 수여하였음.  단 8개국만 추가적으로 우수규범 정책을 시행해도, 트랜스지방으로 인한 전 세계 사망자의 90%를 막을 수 있음. 보고서는 산업 공정에서 생성되는 트랜스지방을 금지하려는 각국의 조치들을 요약하고, 전 세계적으로 트랜스지방 제거하기 위한 권장사항을 아래와 같이 제시함:- 모든 국가, 특히 트랜스지방 섭취로 인한 질병 부담이 가장 높은 것으로 추정되는 국가들은 우수규범 정책을 제정해야 함- 모든 국가는 우수규범 정책 모니터링 및 시행 메커니즘을 강화하여 'WHO 검증 인증서' 수여 자격을 갖추도록 함- 하위 지방당국에서 트랜스지방 제거 의무화 정책을 통과시켜야 함- 지방 및 유지류를 주로 제조하는 식품업체는 더 건강한 대체 지방 사용 증가를 위한 규정을 준수해야 함. 아직 규제 시행이 되지 않는 곳에서도 기업들은 제품라인과 공급망에서 트랜스지방 제거를 위해 노력해야 함. (*) Countdown to 2023: WHO 5-year milestone report on global trans fat elimination 2023. Geneva: World Health Organization; 2024. https://iris.who.int/bitstream/handle/10665/376491/9789240089549-eng.pdf?sequence=1",
+    "query": "2023년 기준 몇 개국이 트랜스지방 제거를 위한 우수규범 정책을 시행하고 있나요?",
+    "answer": "총 53개 국가가 우수규범 정책을 시행 중입니다."
+  },
+  {
+    "id": 66,
+    "title": "영국 Iceland Foods, 가장 매운 고추 종으로 알려진 '페퍼 X' 함유한 즉석식품 2종에 18세 이상 연령제한 도입해",
+    "content": "영국 언론 Daily Mail에 따르면, 슈퍼마켓 체인인 Iceland Foods(사)는 가장 매운 고추 종으로 알려진 '페퍼 X(Pepper X)'를 함유한 즉석식품 2종에 18세 이상만 구입 가능한 연령제한을 도입하였음.  페퍼 X는 스코빌 지수가 269만으로 할라피뇨보다 53,000% 이상 매움. 이는 Iceland(사)의 Chicken Tikka Masala 즉석식품과 Chilli Mac and Cheese 즉석식품에 포함되었음.  이로써 Iceland(사)는 영국 소매업체 중 최초로 즉석식품에 연령 제한을 두게 되었으며, 이는 극한의 매운맛으로부터 젊은 고객을 보호하기 위한 결정임. 슈퍼마켓 직원은 계산대에서 신분증을 확인하여 미성년 고객이 동 제품을 구매할 수 없도록 할 것임.",
+    "query": "Iceland Foods가 페퍼 X를 함유한 즉석식품에 연령제한을 도입한 이유는 무엇인가?",
+    "answer": "이는 극한의 매운맛으로부터 젊은 고객을 보호하기 위한 결정임."
+  },
+  {
+    "id": 67,
+    "title": "유럽질병예방통제센터, 주간 전염병 보고서 발표... 조류인플루엔자 등",
+    "content": "유럽질병예방통제센터(ECDC)는 2024년 4월 12일 15주차(2024년 4월 7일 ~ 2024년 4월 13일) 주간 전염병 위험 보고서(CDTR, Communicable disease threats report)(*)를 발표함. (* 일부 발췌)  △ 조류인플루엔자 A(H9N2) - 다국가 - 인체감염 사례   - 베트남에서 조류인플루엔자 A(H9N2) 인체감염 사례가 1건 보고되었으며, 이는 베트남 내 첫 A(H9N2) 보고 사례임. - 환자의 거주지 및 가금류 시장의 근접성을 고려할 때, 감염된 가금류와 접촉한 것으로 추정됨.- 2차 사례는 보고되지 않았으나, 현재 조사가 진행 중임.- 1998년 이후 전세계적으로 A(H9N2) 인체감염이 총 136건 보고되었으며, 2명이 사망함.- 대다수의 사례는 중국(122건)에서 보고되었으며, EU/EEA 내 인체감염 위험은 매우 낮은 것으로 간주됨.  △ 조류인플루엔자 A(H10N3) - 다국가- 중국에서 세 번째 조류인플루엔자 A(H10N3) 감염이 2024년 4월 보고되었음- 환자(성인)는 가금류 및 가금류 환경 노출 이후 2024년 2월 폐렴 중증 증상을 보임- 사람 간 전이 사례는 보고되지 않았으며, EU/EEA 내 인체감염 위험은 매우 낮은 것으로 간주됨.   (*) https://www.ecdc.europa.eu/sites/default/files/documents/Communicable-disease-threats-report-week-15-2024.pdf",
+    "query": "베트남에서 보고된 조류인플루엔자 A(H9N2) 인체감염 사례는 몇 건인가요?",
+    "answer": "베트남에서 조류인플루엔자 A(H9N2) 인체감염 사례가 1건 보고되었습니다."
+  },
+  {
+    "id": 68,
+    "title": "유럽질병예방통제센터, 주간 전염병 보고서 발표... 캄보디아 조류인플루엔자 1명 추가 감염 등",
+    "content": "유럽질병예방통제센터(ECDC)는 2024년 2월 23일 8주차(2024년 2월 18일 ~ 2024년 2월 24일) 주간 전염병 위험 보고서(CDTR, Communicable disease threats report)(*)를 발표함.     (* 일부 발췌)  △ 인플루엔자A(H5N1) - 다국가(전세계) - 인체감염 모니터링- 캄보디아 보건부는 2월 20일, Kompot주에서 새로운 조류인플루엔자 A(H5N1) 인체감염 1건을 보고하였음. 현재까지 캄보디아에서 5건의 사례가 보고되었으며, 1명이 사망함. - 동 사건 관련 현재까지 사람 간 전이 사례는 보고되지 않았음.- 클레이드 2.3.2.1c 바이러스는 캄보디아에서 유행하고 있으며, 2023년 인체감염을 일으킨 바 있음. 2024년 보고된 사건 중 1건에서 분리된 바이러스의 유전자형 특성은 동일한 클레이드인 2.3.2.1c로 확인되었음. - 2004년 이후 전세계 총 23개 국가에서 887건의 조류인플루엔자A(H5N1) 인체감염이 보고되었으며, 그중 462명이 사망함(치명률 52%).- EU/EEA 지역 국가 내 일반 대중에 대한 인수공통 인플루엔자 전이 위험은 낮은 것으로 간주됨. 농부 및 살처분자(cullers)와 같이 직업적으로 노출된 집단에 대한 위험은 중저위험(low-to-medium)으로 간주됨.  △ 조류인플루인자A(H9N2) - 다국가(전세계) - 인체감염 모니터링- 중국의 5세 이하 어린이에게서 조류인플루엔자A(H9N2) 인체감염이 보고되었으며, 증상은 2024년 2월 15일 발현됨. - 1998년 이후 전세계적으로 총 130건의 A(H9N2) 인체감염 사례와 1건의 A(H9) 인체감염이 보고되었으며, 그중 2명이 사망함. - 보고된 대다수의 사례는 중국(118건)에서 보고되었으며, EU/EEA 지역 내에서 인체감염은 보고되지 않음.  (*) https://www.ecdc.europa.eu/sites/default/files/documents/communicable-disease-threats-report-week-8-2024.pdf",
+    "query": "캄보디아에서 최근 보고된 조류인플루엔자 A(H5N1) 인체감염 사례 수는 몇 건인가요?",
+    "answer": "캄보디아에서 최근 보고된 조류인플루엔자 A(H5N1) 인체감염 사례는 1건입니다."
+  },
+  {
+    "id": 69,
+    "title": "영국, 대중적 외식 메뉴의 75% 이상이 건강에 좋지 않아",
+    "content": "영국 'Action on Sugar'의 새로운 조사 결과(*), 대중적인 테이크아웃 전문점, 레스토랑, 커피체인점에서 판매되는 인기 있는 메뉴의 4분의 3 이상이 정부 지침에 따르면 건강에 해로운 것으로 드러남. 영국의 대형 외식업체인 Subway, Pizza Express, McDonald’s, Greggs, Starbucks, Pret a Manger에서 판매하는 피자, 햄버거, 치킨, 튀김, 바게트 등 인기 식품의 영양성분을 분석한 결과, 건강에 해로울 수 있는 지방, 식염, 당류, 칼로리가 위험할 정도로 많이 함유되어 있었음. 정부가 지원한 식품의 영양학적 품질의 판별 방식(영양소 프로파일링 모델, 신호등 표시, 설탕세) 중 어떤 방식을 적용했느냐에 따라서 조사 대상 190개 메뉴 중 46%에서 78%가 건강에 해로운 것으로 판정되었음.  (*) https://www.actiononsalt.org.uk/media/action-on-salt/surveys/Healthiness-in-UK-OOH---FINAL-CHECKED.pdf",
+    "query": "영국의 대형 외식업체에서 판매되는 메뉴 중 건강에 해로운 것으로 판정된 비율은?",
+    "answer": "조사 대상 190개 메뉴 중 46%에서 78%가 건강에 해로운 것으로 판정되었음."
+  },
+  {
+    "id": 70,
+    "title": "유럽질병예방통제센터, 주간 전염병 보고서 발표... 고병원성 조류인플루엔자 등",
+    "content": "유럽질병예방통제센터(ECDC)는 2024년 5월 3일 18주차(2024년 4월 28일 ~ 2024년 5월 4일) 주간 전염병 위험 보고서(CDTR, Communicable disease threats report)(*)를 발표함. (* 일부 발췌)  △ 고병원성 조류인플루엔자(HPAI) A(H5N1) 젖소 및 인체감염 사례 - 미국 - 2024   - 미국 9개 주에 소재한 여러 농장(2025년 5월 2일 기준 36개 농장)의 젖소에서 고병원성 조류인플루엔자 A(H5N1)이 발견되었음. - 미국 우유 샘플에서 HPAI A(H5N1)의 유전물질이 발견되었음. 미국 FDA 연구결과에 따르면, 저온살균(pasteurisation) 절차는 우유 및 유제품 중 HPAI를 비활성화하며, 생존가능한 바이러스를 제거함. - 미국 농무부는 소비자를 대상으로 상업적으로 생산된 저온살균 우유가 안전하다고 강조함.- 2024년 4월 1일 HPAI A(H5N1)의 인체감염 사례가 보고되었으며, 동 환자는 미국 텍사스주에서 HPAI A(H5N1)에 감염된 것으로 추정된 젖소와 사전 접촉한 바 있음. 동 환자는 회복되었으며, 그 이후 추가 인체감염 사례는 보고되지 않음. - 동 환자에게서 분리된 바이러스는 HA 클레이드 2.3.4.4b HPAI A(H5N1)에 속하며, 텍사스 젖소에서 발견된 바이러스와 밀접하게 관련있었음.  (*) https://www.ecdc.europa.eu/sites/default/files/documents/communicable-disease-threats-report-week-18-2024.pdf",
+    "query": "미국에서 고병원성 조류인플루엔자 A(H5N1)에 감염된 젖소와 접촉한 사람의 상태는 어떠한가?",
+    "answer": "해당 환자는 회복되었으며, 그 이후 추가 인체감염 사례는 보고되지 않음."
+  },
+  {
+    "id": 71,
+    "title": "[회수]캐나다 Nestle Canada Inc., 라벨에 표시된 나이아신아마이드 미함유로 천연건강제품 회수",
+    "content": "- 최초 발표 일자: 2024-10-11 (최신 업데이트 일자: 2024-10-11) - 회수사: Nestle Canada Inc. - 브랜드: Douglas Laboratories- 제품명: Stress-B-Plus Tablet- 시장 승인: NPN 80064323- 제형(Dasage form): 제형(Dosage Form)- 효능(Strength): Biotin 200.0 microgramsCholine 26.0 milligramsFolate 400.0 microgramsInositol 55.0 milligramsNiacinamide 200.0 milligramsRiboflavin 55.0 milligramsThiamine 50.5 milligramsVitamin B12 100.0 microgramsVitamin B6 53.5 milligramspara-Aminobenzoic acid 55.0 milligramsPantothenic acid 55.0 milligrams- 로트: 621338-1- 회수사유: 라벨에 따라 제품은 나이아신아마이드(Niacinamide)를 함유해야 함- 제품사진: -- 기타: 니아신 함유 로트가 회수 대상임",
+    "query": "Douglas Laboratories의 Stress-B-Plus Tablet이 회수된 이유는 무엇인가요?",
+    "answer": "라벨에 따라 제품은 나이아신아마이드(Niacinamide)를 함유해야 하기 때문입니다."
+  },
+  {
+    "id": 72,
+    "title": "국제원자력기구, 일본 후쿠시마 제1원전 ALPS 처리수 방류 9차 배치 삼중수소 농도 일본측 기준치 밑돌아",
+    "content": "국제원자력기구(IAEA) 전문가들의 확인에 따르면, 일본 도쿄전력(TEPCO)이 9월 26일 다핵종처리설비(ALPS) 희석처리수 9차 배출을 시작했으며, 삼중수소 농도는 일본의 운영 한계치를 크게 밑돌고 있음.  후쿠시마 제1원전(FDNPS) 현장 IAEA 사무소에 주재하는 IAEA 전문가들은 처리수 샘플에 대해 독립적인 현장 분석을 실시했음. 분석 결과, IAEA 전문가들은 희석된 물의 삼중수소 농도가 운영 한계치인 1,500 Bq/L에 못 미친다는 것을 확인하였음.",
+    "query": "국제원자력기구 전문가들이 확인한 후쿠시마 제1원전 ALPS 처리수의 삼중수소 농도는 얼마인가?",
+    "answer": "삼중수소 농도는 일본의 운영 한계치인 1,500 Bq/L에 못 미친다."
+  },
+  {
+    "id": 73,
+    "title": "유엔식량농업기구, '23년 11월 중국 상하이에서 열린 세포기반 식품 관련 회의보고서 게시",
+    "content": "유엔식량농업기구(FAO)는 2023년 11월 6일 중국 상하이에서 열린 이해관계자 원탁회의의 보고서인 '세포기반 식품과 정밀 발효'(*)를 게시함. 이번 회의 보고서는 세포기반 식품 관련 혁신에 대하여 심층적으로 탐구하며, 독자들이 세포기반 식품 생산 및 정밀 발효에 관한 최신 개발 현황을 엿볼 수 있도록 흥미로운 정보와 통찰을 제공함. 보고서에서는 개발자와 생산자가 제공한 발표자료와 사진을 바탕으로 14가지 식품(식품첨가물 용도의 정밀 발효 유래 콜라겐 제품부터 중국 전통 기능성식품(functional food)인 녹용 제품까지)들이 각 생산공정의 흐름도와 함께 소개되었음. 특히 식품안전규제 자료(dossier) 개발에 관한 특별 토론 세션에 주목할만하며, 식품안전평가 수행과정과 자료의 내용에 대한 자세한 정보를 다룸. 앞으로 기술 및 관련 기법(테크닉)이 더욱 진보할 것으로 전망되는 가운데, 이번 보고서는 규제 관행을 안내하고 정책 결정에 대한 정보를 제공하며, 혁신적 식품 기술분야에서 지속적인 대화와 협력 촉진에 중요한 자원 역할을 할 것임.  (*) FAO. 2024. Cell-based food and precision fermentation – Products, safety and the future role. Stakeholder roundtable meeting report, Shanghai, China, 6 November 2023. Rome.: https://www.fao.org/3/cd0311en/cd0311en.pdf",
+    "query": "유엔식량농업기구가 2023년 11월 상하이에서 개최한 회의의 주요 주제는 무엇인가?",
+    "answer": "세포기반 식품과 정밀 발효에 관한 혁신을 심층적으로 탐구하는 것이 주요 주제였다."
+  },
+  {
+    "id": 74,
+    "title": "국제원자력기구, '23년 10월 일본 후쿠시마 ALPS 처리수 해양방출 검토 결과 국제안전기준 부합... 작년 7월 4일자 보고서 결론과 동일",
+    "content": "* 2024-07-05 기수집 정보: 국제원자력기구, 일본의 후쿠시마 처리수 해양방출계획 국제안전기준에 부합일본 후쿠시마 제1원전(FDNPS)의 처리수 해양 방류에 대한 안전성 검토를 수행 중인 국제원자력기구(IAEA) 태스크포스(TF)가 지난해 방류가 시작된 이후 종합 보고서를 오늘(1.30) 발표함. TF는 이번 방류가 국제 안전기준에 부합한다는 결론을 내렸으며, 작년 7월 4일에 발표한 종합 안전보고서(*)의 결론을 재확인하였음.2023년 10월 24일부터 27일까지의 임무 기간 동안, 태스크포스는 ALPS 처리수 배출을 위해 FDNPS에 설치된 시설과 장비를 검토했으며, 임무 수행 중 내린 평가를 바탕으로 아래와 같은 결론을 내림:- 일본에는 ALPS 처리수 방류에 대한 운영 안전 감독을 제공하는 강력한 규제 인프라가 구축되어 있으며, TF는 이와 관련하여 일본 원자력규제위원회의 현장 상주 및 활동을 직접 목격할 수 있었음- TF는 FDNPS에서 관찰한 바에 따라, 해당 장비와 시설이 일본의 방류 계획 및 관련 국제 안전기준에 부합하는 방식으로 설치 및 운영되고 있음을 확인함* 보고서: 「IAEA Review of Safety Related Aspects of Handling ALPS-Treated Water at TEPCO’s Fukushima Daiichi Nuclear Power Station 」Report 1: First Review Mission to Japan after the Start of ALPS Treated Water Discharge (October 2023): https://www.iaea.org/sites/default/files/first_review_mission_report_after_start_of_alps_treated_water_discharge_oct_23.pdf",
+    "query": "국제원자력기구는 후쿠시마 ALPS 처리수 해양방출이 국제안전기준에 부합한다고 결론 내렸나요?",
+    "answer": "국제원자력기구는 후쿠시마 ALPS 처리수 해양방출이 국제안전기준에 부합한다고 결론 내렸습니다."
+  },
+  {
+    "id": 75,
+    "title": "유럽식품안전청, 유전자변형 식물의 분자 특성화를 위한 DNA 염기서열 분석 품질 관련 기술노트 게재",
+    "content": "유럽식품안전청(EFSA)은 2024년 4월 17일, 유전자변형(GM) 식물의 분자 특성화(molecular characterisation)를 위한 DNA 염기서열 분석 품질 관련 기술노트(Technical Note)를 게재하였음(*). ― 규정(EU) No 503/2013과 GM 식물 유래 식품 및 사료의 위해평가에 관한 EFSA 지침에 따른 GM 식물의 위해평가 요건의 일부로서, 신청업체는 GM 식물 게놈에 삽입된 DNA 염기서열에 대한 분자 특성화를 수행해야 함. ― 신청업체를 대상으로 작성된 이 기술노트는 GM 식물 분자 특성화를 위해 DNA 염기서열이 사용될 때의 방법론, 분석 및 보고의 품질 평가를 위한 요건과 권고 사항을 정리하여 제시함. ― 특히, 이 기술노트는 삽입된 유전 물질과 각 삽입 위치의 측면 영역의 특성화, 검출 가능한 모든 삽입물(inserts)의 복제본 수(copy number) 결정, 삽입물의 유전적 안정성 분석을 위해 생어 염기서열(Sanger sequencing) 및 차세대 염기서열 사용에 작용됨.  ― 이 기술노트는 EFSA의 2018년 기술노트 문서를 대체하며, GM 식물의 위해평가 맥락 중 표준화된 방식으로 DNA 염기서열 데이터를 생성 및 검증하는 과학기술 방법에 대한 최신 지식을 반영함.  ― 한편, 기술노트 문서에서는 공동연구센터(JRC)의 소관으로 남아있는 검출 방법의 검증과 인증을 고려하지 않았음. (*) https://efsa.onlinelibrary.wiley.com/doi/epdf/10.2903/j.efsa.2024.8744",
+    "query": "유럽식품안전청의 새로운 기술노트는 어떤 염기서열 분석 방법을 강조하고 있나요?",
+    "answer": "생어 염기서열(Sanger sequencing) 및 차세대 염기서열 사용을 강조하고 있습니다."
+  },
+  {
+    "id": 76,
+    "title": "국제원자력기구, 일본 후쿠시마 제1원전 ALPS 처리수 방류 7차 배치 삼중수소 농도 일본측 기준치 밑돌아",
+    "content": "국제원자력기구(IAEA) 전문가들의 확인에 따르면, 일본 도쿄전력(TEPCO)이 오늘부터(6.28) 다핵종처리설비(ALPS) 희석처리수 7차 배출을 시작했으며, 삼중수소 농도는 일본의 운영 한계치를 크게 밑돌고 있음.  IAEA 후쿠시마 원전사무소에 주재하는 IAEA 전문가들은 처리수에서 시료를 채취했음.  IAEA의 독립적 현장 분석 결과, 희석된 물의 삼중수소 농도가 운영 한계치인 1,500 Bq/L에 못 미친다는 것이 확인되었음.",
+    "query": "후쿠시마 제1원전에서 방류된 ALPS 처리수의 삼중수소 농도는 얼마인가?",
+    "answer": "삼중수소 농도는 일본의 운영 한계치인 1,500 Bq/L에 못 미친다."
+  },
+  {
+    "id": 77,
+    "title": "영국 식품기준청, 나한과는 신소재 식품 아닌 것으로 결정",
+    "content": "영국 식품기준청(FSA)은 나한과 열매(Siraitia grosvenorii 식물의 신선 건과일로 만들어짐)의 비선택적 탕약(non-selective aqueous decoctions)을 신소재 식품이 아닌 것으로 결정함. 이는 (유럽연합) 동화규정 (EU) 2015/2283 제4조에 따른 신청의 결과임.  FSA에 영국과 EU 내에서 나한과 열매의 비선택적 탕약을 섭취한 이력이 있다는 증거가 제출되었으며, 증거를 종합적으로 고려할 때 상당한 소비 이력을 입증하기에 충분한 것으로 간주되었음. 제공된 증거를 바탕으로 FSA는 이와 같은 결론을 내림. 이 결정은 잉글랜드와 웨일스에 적용되며 스코틀랜드 식품기준청(FSS)은 스코틀랜드에 적용되는 자체 결정을 발표할 예정임.",
+    "query": "영국 식품기준청은 나한과 열매의 비선택적 탕약을 어떤 이유로 신소재 식품이 아닌 것으로 결정했나요?",
+    "answer": "영국과 EU 내에서 나한과 열매의 비선택적 탕약을 섭취한 이력이 있다는 증거가 제출되었고, 이를 바탕으로 상당한 소비 이력을 입증하기에 충분하다고 간주했기 때문입니다."
+  },
+  {
+    "id": 78,
+    "title": "유럽집행위원회 보건식품안전총국, 유전체신기술(NGT) 규정안은 EFSA가 수행한 과학적 연구와 인간/동물의 건강·환경·경제·사회적 위험에 대한 영향 분석에 근거하고 있어",
+    "content": "관련 기수집 정보: - 프랑스 식품환경노동위생안전청, 유전체신기술 '카테고리 1' 식물을 규정하는 기준에 관한 분석 의견 발표 (2023-12-26)- 프랑스 식품환경노동위생안전청, 유전체신기술로 개발된 식물 관련 사회·경제학적 위험 및 쟁점에 관한 보고서 게재 (2024-03-07) 유럽 언론 EURACTIV에 따르면, 유럽집행위원회(EC) 보건식품안전총국(DG-SANTE)의 클라우스 베렌트(Klaus Berend)는 지난 4월 9일(화) 유럽의회(EP) 환경위원회 공청회에서 유전체신기술(NGT)로 재배된 식물에 관한 새로운 법안의 과학적 견고성을 입증하며, 프랑스 당국(Anses)의 비판을 반박하였음.  베렌트는 NGT법의 초안이 \"2012년부터\" EU 식품안전 당국인 유럽식품안전청(EFSA)이 제공한 과학적 연구와 인간/동물의 건강·환경·경제·사회적 위험에 대한 영향 분석에 근거하고 있다고 강조하였으며, 또한 노벨자 수상자들이 NGT의 안전성을 옹호하는 서한에 서명한 것을 상기시켰음.  베렌트는 Anses가 NGT 분류 기준을 비판하며 사례별 위해평가에 기반한 접근법을 제안한 것에 대해 \"위해 연구가 필요하지 않다\"라고 답하며, EFSA의 작업과 \"논리\"를 적용할 것을 요청하였음. 그는 \"기존의 유전자변형 기술이나 NGT로 동일한 변형을 시도할 때, NGT가 기존 기술보다 더 위해하지 않다\"고 강조하였음. 이에 대해 프랑스 당국은 입장을 고수하였음. Anses 총장(director general) Matthieu Schuler은 \"NGT 제품 분류 매커니즘에 반대하는 것이 아니라 다른 국가와 모순되지 않는 등급별(graded) 평가를 통해 견고하게 적용되는 시스템을 선호한다\"고 말했음. 또한 기존 유전자변형 식물과 NGT의 '동등성' 기준에 대해 정확한 정의의 필요성을 강조하였으며, 영구적인 모니터링 네트워크를 구축할 것을 요청하였음.",
+    "query": "유럽집행위원회 보건식품안전총국의 클라우스 베렌트는 유전체신기술(NGT)로 재배된 식물에 관한 새로운 법안의 과학적 견고성을 어떻게 입증했나요?",
+    "answer": "클라우스 베렌트는 유전체신기술(NGT) 법안의 초안이 2012년부터 유럽식품안전청(EFSA)이 제공한 과학적 연구와 인간/동물의 건강·환경·경제·사회적 위험에 대한 영향 분석에 근거하고 있다고 강조하며, 노벨상 수상자들이 NGT의 안전성을 옹호하는 서한에 서명한 것을 상기시켰습니다."
+  },
+  {
+    "id": 79,
+    "title": "유럽식품안전청, 신소재 단백질 생산 절차에 관한 설문조사 요청",
+    "content": "유럽식품안전청(EFSA)은 미래의 EFSA 위해 평가를 지원하도록 신소재 단백질과 관련된 생산, 사용, 유통 및/또는 연구 및 혁신과 관련된 이해관계자들에게 짧은 설문조사 참여를 요청함.EFSA 연구진은 정기적으로 GMO 및 신소재 식품 분야에서의 신소재 단백질의 안전성을 평가함. EFSA 평가에는 평가 대상 제품을 제조하는 데 사용되는 생산 절차의 안전성이 포함됨. EFSA는 GMO 및 신소재 식품 평가에 대한 EFSA 자체 지침 문서 뿐만 아니라 OECD가 GM 식품 및 사료의 안전성 평가에 관하여 만든 지침을 사용함. 미래의 요구를 충족하기 위해 EFSA는 이를 체계적으로 업데이트하여 새로운(new) 제품 유형과 관련 생산 절차를 포괄하도록 함.신소재 단백질 생산 맵핑(Mapping)발생 가능한 격차를 해결하고 향후 위해 평가를 지원하기 위해, 최근 EFSA는 ①단백질이 풍부한 식품 및 사료 제품의 유형과 관련 가공 기술을 맵핑하고 ②가공이 원 상품(raw commodity)에 존재하는 단백질에 영향을 미치는지 여부와 영향을 주는 방법을 평가하는 프로젝트(*)를 시작하였음.* https://open.efsa.europa.eu/question/EFSA-Q-2023-00659프로젝트의 일환으로 EFSA는 다음에 대한 정보를 모으기 위해 전문가 대상의 설문조사를 실시하고 있음- EU 신소재 식품 규정에 해당하는 신소재 단백질 공급원(제3국의 전통 식품 제외)- 사료에 사용할 수 있는 혁신적/비-기존(unconventional) 단백질 급원 (예: 곤충, 미세조류, 식물성 단백질)- GM 또는 기존 식품 작물에서 유래한 단백질 함유의 식품 및 사료 제품- 이 3가지 제품 군의 생산 절차 특성화2024년 2월 23일까지 아래 설문조사에 참여할 수 있음.https://ec.europa.eu/eusurvey/runner/ProcessingProteins",
+    "query": "EFSA가 신소재 단백질과 관련하여 전문가들에게 설문조사를 요청한 이유는 무엇인가요?",
+    "answer": "EFSA는 신소재 단백질의 생산, 사용, 유통 및 연구와 관련된 정보를 수집하여 미래의 위해 평가를 지원하기 위해 설문조사를 요청했습니다."
+  },
+  {
+    "id": 80,
+    "title": "국제원자력기구, 일본 후쿠시마 제1원전 ALPS 처리수 방류 6차 배치 삼중수소 농도 일본측 기준치 밑돌아",
+    "content": "일본 후쿠시마 현장의 국제원자력기구(IAEA) 전문가들의 확인에 따르면, 도쿄전력(TEPCO)이 5월 17일부터 시작한 다핵종처리설비(ALPS) 희석처리수 3차분의 삼중수소 농도가 일본의 운영 한계치를 크게 밑돌고 있음.  IAEA 후쿠시마 원전사무소에 주재하는 IAEA 전문가들은 처리수에서 시료를 채취했음.  IAEA의 독립적 현장 분석 결과, 희석된 물의 삼중수소 농도가 운영 한계치인 1,500 Bq/L에 못 미친다는 것이 확인되었음.",
+    "query": "후쿠시마 제1원전의 ALPS 처리수 삼중수소 농도는 일본의 운영 한계치보다 낮은가?",
+    "answer": "IAEA의 독립적 현장 분석 결과, 희석된 물의 삼중수소 농도가 운영 한계치인 1,500 Bq/L에 못 미친다는 것이 확인되었음."
+  },
+  {
+    "id": 81,
+    "title": "국제원자력기구, 일본 후쿠시마 제1원전 ALPS 처리수 방류 10차 배치 삼중수소 농도 일본측 기준치 밑돌아",
+    "content": "국제원자력기구(IAEA) 전문가들의 확인에 따르면, 일본 도쿄전력(TEPCO)이 10월 17일 다핵종처리설비(ALPS) 희석처리수 10차 배출을 시작했으며, 삼중수소 농도는 일본의 운영 한계치를 크게 밑돌고 있음.  후쿠시마 제1원전(FDNPS) 현장 IAEA 사무소에 주재하는 IAEA 전문가들은 처리수 샘플에 대해 독립적인 현장 분석을 실시했음. 분석 결과, IAEA 전문가들은 희석된 물의 삼중수소 농도가 운영 한계치인 1,500 Bq/L에 못 미치고 국제안전기준에 부합하는 것을 확인하였음.",
+    "query": "후쿠시마 제1원전에서 방류된 ALPS 처리수의 삼중수소 농도는 얼마인가?",
+    "answer": "삼중수소 농도는 일본의 운영 한계치인 1,500 Bq/L에 못 미침."
+  },
+  {
+    "id": 82,
+    "title": "유럽연합, 신소재식품으로서 배양육 푸아그라 승인 신청서 접수돼... EU 내 첫 번째 배양육 승인 신청서",
+    "content": "유럽 언론 Food Navigator Europe에 따르면, 프랑스 스타트업 Gourmey(사)는 배양육 푸아그라의 신소재식품 (승인) 신청서를 EU에 제출하였으며, 이는 EU 내 첫 번째 배양육 (승인) 신청서에 해당함. 업체는 동 제품을 요리사(Chefs)에게 제공하는 것에 초점을 맞추었음. Gourmey(사)는 동 승인 신청서를 EU, 스위스, 영국, 미국 및 싱가포르에 동시 제출하였음.  전세계에서 가장 엄격한 절차 중 하나로 간주되는 EU의 승인 절차는 대략 18개월이 걸릴 것으로 예측됨. 전문가 및 회원국이 협력해 진행되는 동 절차는 Gourmey(사)의 제품이 섭취하기에 안전한지 또는 잠재적 사회, 경제 및 환경적 영향은 어떠할 지 확인하며, 만약 승인될 경우 Gourmey(사)의 배양육은 모든 EU 27개 회원국에서 판매될 수 있음. 한편, Gourmey(사)의 CEO는 \"우리의 선도적인 배양육 승인 신청이 더 많은 배양육 업체들이 EU 및 기타 지역에 시판 승인 신청하는 것을 장려할 수 있기를 희망한다\"고 말했음.",
+    "query": "Gourmey(사)가 EU에 제출한 배양육 푸아그라 승인 신청서의 절차는 얼마나 걸릴 것으로 예상되나요?",
+    "answer": "대략 18개월이 걸릴 것으로 예측됨."
+  },
+  {
+    "id": 83,
+    "title": "국제원자력기구, 후쿠시마 원전 5차 ALPS 처리수의 삼중수소 농도 일본 자체 운영 한계치 밑돌아",
+    "content": "국제원자력기구(IAEA)는 2024년 4월 19일, IAEA의 전문가들이 일본 도쿄전력(TEPCO)이 4월 19일 방류를 시작한 5번째 희석된 ALPS 처리수의 삼중수소 농도가 일본의 운영 한계치(operational limit)보다 훨씬 낮다는 것을 확인했음.   후쿠시마 원전 현장에 있는 IAEA 사무실에 상주하는 전문가들은 4월 19일 방류 시설에서 처리수를 해수로 희석한 후 샘플을 채취했음. IAEA의 독립적인 현장분석 결과, 삼중수소 농도가 운영 한계치인 리터당 1500 Bg/L 보다 훨씬 낮은 것으로 확인되었음.  데이터 확증(corroboration)은 '환경방사능측정분석실험실네트워크(ALMERA)'의 회원국인 중국, 한국, 스위스 및 미국의 독립적 제3국 실험실뿐만 아니라 IAEA 실험실과 관련된 실험실 간 비교를 통해 5 번째 배치에서도 수행될 것임.  한편, 일본의 ALPS 처리수 방류에 대한 안전성 검토를 수행하는 IAEA 테스크포스는 4월 23일 재소집되어 방류 시작 이후 두 번째 일본 방문을 실시할 예정임. 이는 2021년 시작된 임무 중 일부이며, 방류수에 대한 IAEA의 안전성 검토나 진행되는 동안 계속해서 진행될 것임.",
+    "query": "국제원자력기구(IAEA)는 후쿠시마 원전의 5번째 ALPS 처리수의 삼중수소 농도를 어떻게 평가했나요?",
+    "answer": "국제원자력기구(IAEA)는 5번째 ALPS 처리수의 삼중수소 농도가 일본의 운영 한계치인 리터당 1500 Bg/L보다 훨씬 낮다고 확인했습니다."
+  },
+  {
+    "id": 84,
+    "title": "영국 BBC, 고추의 매운맛은 부작용 일으킬 수 있어",
+    "content": "* 기수집 정보: 독일 연방위해평가원, 다량의 캡사이신 함량은 건강에 위험 초래할 수 있어 (수집일자: 2024-06-24)  영국 언론 BBC는 2024년 6월 21일(업데이트: 2024년 6월 24일), 캡사이신 관련 고추의 매운맛이 부작용을 일으킬 수 있다고 보도함(원제: Capsaicin: The kick from your chilli can have side effects).  최근 덴마크 식품 당국은 급성 독성 유발 가능성으로 인해 대한민국의 즉석면류 라면 제품의 특정 맛 제품을 회수한 바 있으며, 미국에서는 기저 질환이 있는 10대 1명이 매운 식품 챌린지 이후 사망했었음. 이러한 우려의 원인은 고추의 매운 맛을 내는 활성 성분인 캡사이신 때문임.  캡사이신은 고추에 매운 맛과 섭취 시 타는 듯한 느낌을 주는 화합물이며, 캡사이시노이드(capsaicinoids)라고 불리는 화합물 중 하나에 해당함. 약 23개의 서로 다른 캡사이시노이드가 고추에서 검출되지만 가장 많이 검출되는 것은 캡사이신이며, 일반적으로 고추에서 더 낮은 농도로 발견되는 디하이드로캡사이신이라는 유사한 분자와 비슷한 수준의 매운맛을 가지고 있음.  덴마크 외에도 독일 연방위해평가원(BfR)은 캡사이신 과량 섭취에 대해 경고한 바 있음. 캡사이시노이드가 TRPV라는 통증 수용체를 활성하여 통증을 유발하고 염증을 일으킬 수 있다고 함. BfR은 특히 인간을 대상으로 한 연구에 따르면 캡사이시노이드를 다량 섭취하면 속쓰림, 역류, 메스꺼움, 설사 및 복부와 가슴에 통증을 유발할 수 있다고 말했음. 또한 캡사이신 다량 복용 시 식은 땀, 혈압 변화 또는 현기증과 같은 순환계 증상을 유발할 수 있다고 덧붙였음. 그러나 아직 어떤 용량에서 이러한 증상이 발생하는지 명확히 밝혀진 데이터는 충분하지 않음.  한편, BfR은 약 600 mg의 캡사이시노이드를 섭취한 후 환자가 입원한 사례가 보고된 적이 있다고 말했음. 문제의 환자는 독일 베를린에서 열린 고추 먹기 대회에 참가했다가 부트 졸로키아(Bhut Jolokia) 고추 4개와 기타 다양한 매운 음식을 섭취했다고 함.  BfR은 다량의 캡사이신 섭취가 어린이에게 심각한 중독을 일으킬 수 있으나, 이러한 증상을 야기할 수 있는 용량에 대해서는 알려지지 않았다고 함. 또한 2022년 또 다른 문헌 평가에서는 매운 음식과 고추가 건강에 미치는 영향은 불확실하며, 근거로 사용할 수 있는 데이터의 품질이 좋지 않다고 결론 내렸음.  캡사이신에 대한 신체 반응은 사람마다 다를 수 있으며, 이는 여러 요인에 달려 있음. BfR은 어린이나 매운 음식을 거의 섭취하지 않는 사람의 경우 정기적으로 섭취하는 사람보다 더 민감하게 반응할 수 있다고 말했음. 한 연구에 따르면 캡사이신은 과민성 대장 증후군(IBS) 환자에게는 자극이 될 수 있지만 건강한 사람에게는 자극이 되지 않는 것으로 나타났음. 또한 BfR은 역류성 질환과 같은 기존 위장 문제가 있는 사람들은 위장관에서 캡사이시노이드 섭취에 더 많이 반응 할 수 있으며, 다량 섭취와 관련된 순환계 증상이 관찰되어 심혈관 질환이 있는 사람들에게도 위험을 초래할 수 있다고 말했음.",
+    "query": "캡사이신 과다 섭취 시 어떤 부작용이 발생할 수 있나요?",
+    "answer": "캡사이신을 다량 섭취하면 속쓰림, 역류, 메스꺼움, 설사, 복부와 가슴에 통증, 식은 땀, 혈압 변화, 현기증 등의 증상이 발생할 수 있습니다."
+  },
+  {
+    "id": 85,
+    "title": "호주 퀸즐랜드주, 9월 1일 다양한 일회용 플라스틱 사용이 금지될 예정이었으나 국가 로드맵 작업을 기다리며 잠시 계획 중단",
+    "content": "호주 퀸즐랜드주에서는 올해 9월 1일부터 다양한 일회용 플라스틱 사용(플라스틱 컵, 빵 봉지 태그, 농산물 봉지 등)이 금지될 예정이었으나, 일회용 플라스틱 문제를 해결하기 위한 국가 로드맵 작업을 기다리면서 계획을 잠시 중단한다고 함. 2022년 퀸즐랜드주 정부는 금지하려는 일회용품 및 목표 기간을 상세히 설명하는 5개년 계획을 발표했으나, 퀸즐랜드주 환경 장관인 르엔느 리나드는 언론사 'ABC Radio Brisbane'에 주정부가 국가 전략을 기다리고 있기 때문에 제안된 금지 조치가 보류될 것이라고 함. 그녀는 플라스틱 및 플라스틱 품목에 대한 조치의 국가적 조화를 위한 로드맵 초안이 올해 환경 장관들에게 발표될 예정이라고 함.",
+    "query": "퀸즐랜드주에서 일회용 플라스틱 금지 계획이 중단된 이유는 무엇인가요?",
+    "answer": "퀸즐랜드주 정부가 국가 전략을 기다리고 있기 때문에 제안된 금지 조치가 보류되었습니다."
+  },
+  {
+    "id": 86,
+    "title": "뉴질랜드 일차산업부, 불닭 라면 회수할 필요 없다고 밝혀",
+    "content": "오늘 뉴질랜드 일차산업부 식품안전국(NZFS)은 성명을 통해 Samyang Foods'(사)의 불닭라면 제품에 높은 수준의 캡사이신이 함유되었지만, 회수를 개시할 필요는 없다고 밝혔음. 관련 제품은 Buldak Hot Chicken Stew(Scoville rating: 4,705), Buldak 2x Spicy Hot Chicken(Scoville rating: 8,808) 및 Buldak 3x Spicy Hot Chicken(Scoville rating: 13,200)임.  NZFS Vincent Arbuckle 부국장은 \"NZFS는 동 제품에 높은 수준의 캡사이신이 함유된 것을 확인했으나 제품의 강한 매운맛이 명확히 표시되어 있다\"라고 말했으며 \"동 제품에는 덴마크에서 진행된 회수의 근거였던 허약한 노인 및 어린이에 대한 위험이 존재하지만, 그들은 의도된 소비자가 아니다\"라고 덧붙였음. 또한 Arbuckle 부국장은 \"소비자들은 동 제품이 본인들이 감당하기에 너무 맵다는 것을 파악할 수 있으며 자연스럽게 섭취를 중단할 것이다\"라고 말했으며 \"식품 안전 위험이 있다고 판단되면 공공 안전을 위해 관련 제품 회수를 포함한 신속한 조치를 취할 것이나 동 사례에 대해서는 식품 안전 또는 적합성과 관련된 문제는 없다\"라고 밝혔음. 추가적으로, Arbuckle 부국장은 현재까지 동 제품과 관련된 민원 및 부작용 사례는 없었다고 밝혔음.",
+    "query": "뉴질랜드 일차산업부가 불닭 라면 제품을 회수하지 않는 이유는 무엇인가?",
+    "answer": "뉴질랜드 일차산업부는 불닭 라면 제품에 높은 수준의 캡사이신이 함유되어 있지만, 제품의 강한 매운맛이 명확히 표시되어 있고, 의도된 소비자가 허약한 노인 및 어린이가 아니기 때문에 회수를 개시할 필요가 없다고 밝혔습니다."
+  },
+  {
+    "id": 87,
+    "title": "영국 식품기준청, 9월 이사회 의제 및 관련 문서 게재",
+    "content": "9월 18일에 개최된 영국 식품기준청(FSA) 이사회에서 아래와 같은 내용들이 논의되었음. - 의장의 회의록 발표- 최고경영자의 이사회에 대한 보고 : https://www.food.gov.uk/board-papers/chief-executives-report-to-the-board-4- 지방당국 성과 업데이트 : https://www.food.gov.uk/board-papers/local-authority-performance-update- 기업 규제준수 달성 : https://www.food.gov.uk/board-papers/achieving-business-compliance-0- 예방적 알레르기 유발물질 표시(PAL) 및 알레르기 유발물질의 역치 : https://www.food.gov.uk/board-papers/precautionary-allergen-labelling-and-allergen-thresholds- 연례 FSA 과학 업데이트 : https://www.food.gov.uk/board-papers/annual-fsa-science-update-0- 동물복지 연례 보고서 - 연례 정보 요청의 자유, 외부 민원 및 내부 고발 보고서- 웨일스 FSA 기관장 보고- 감사 및 리스크 보증위원회(ARAC) 위원장 연례 보고 및 9월 10일 ARAC 회의 보고 - 기업위원회 위원장 보고 - 식품 자문위원회 위원장 구두 보고- 기타 사업- 질의사항",
+    "query": "9월 18일 영국 식품기준청 이사회에서 논의된 주요 의제는 무엇인가?",
+    "answer": "의장의 회의록 발표, 최고경영자의 이사회에 대한 보고, 지방당국 성과 업데이트, 기업 규제준수 달성, 예방적 알레르기 유발물질 표시 및 알레르기 유발물질의 역치, 연례 FSA 과학 업데이트, 동물복지 연례 보고서 등이 논의되었다."
+  },
+  {
+    "id": 88,
+    "title": "영국 식품기준청, 덴마크에서 회수된 불닭 라면 3종 영국 내 회수 대상 아냐",
+    "content": "영국 식품기준청(FSA)이 언론 MyLondon에 확인한 바에 따르면, 덴마크에서 독성이 있을 수 있는 수준의 캡사이신 함유로 회수되었던 Samyang Buldak 라면 3종(*)은 영국에서는 회수되지 않을 것이라고 함. 영국에서는 고추에 자연적으로 존재하는 높은 수준의 캡사이신은 제한 없이 합법적으로 사용되지만, 기업에서 인위적으로 캡사이신을 더 첨가할 수는 없음. FSA는 시장에 안전하지 않은 식품이 있을 경우 웹사이트를 통한 신속한 소비자 대상 경고 조치를 할 것이라고 함. (*) 1) Buldak 3x Spicy  Hot Chicken, 2) 2x Spicy  Hot Chicken, 3) Hot Chicken Stew",
+    "query": "덴마크에서 회수된 Samyang Buldak 라면 3종이 영국에서는 회수되지 않는 이유는 무엇인가?",
+    "answer": "영국에서는 고추에 자연적으로 존재하는 높은 수준의 캡사이신이 제한 없이 합법적으로 사용되기 때문입니다."
+  },
+  {
+    "id": 89,
+    "title": "[회수]덴마크 수의식품청, 캡사이신 함량이 매우 높아 소비자가 급성 중독에 걸릴 위험 있어 불닭 라면 등 면류 3종 회수",
+    "content": "- 발표일자: 2024.06.12.- 유통지역: 덴마크- 제품명: 라면(면류) 3종 ▲ Buldak 3x Spicy  Hot Chicken (※ 덴마크 당국 회수 원문에 따른 제품명은 'Samyang Buldak Hot Chicken Ramen 3x Spicy'임)▲ Buldak 2x Spicy  Hot Chicken (※ 덴마크 당국 회수 원문에 따른 제품명은 'Samyang Buldak Hot Chicken Ramen 2x Spicy'임)▲ Buldak Hot Chicken Stew (※ 덴마크 당국 회수 원문에 따른 제품명은 'Samyang hot chicken flavor ramen stew type'임)- 제조사: Samyang (대한민국)- 회수/경고 주체: 덴마크 수의식품청- 회수사유: 덴마크 당국은 제품 한 봉지에 들어 있는 캡사이신 함량이 소비자가 급성 중독에 걸릴 위험이 있을 정도로 매우 높다고 평가하였으며, 특히 극도로 매운 식품이 위해할 수 있는 어린이에 대한 경고를 강조하였음. 당국은 제품을 폐기할 것과 구매한 지점에 반품할 것을 촉구함.- 제품사진: 원문참고- 덴마크 식품청 회수 정보 원문(덴마크어): https://foedevarestyrelsen.dk/nyheder/tilbagekaldte-foedevarer/2024/jun/tilbagekald-af-samyang-buldak-3-x-spicy-and-hot-chicken-2-x-spicy-and-hot-chicken-og-hot-chicken-stew BBC 언론에 따르면, 덴마크 당국이 특정 사건의 발생으로 인해 회수/경고 조치를 취하게 되었는지 여부는 알려지지 않음. 동 면류 제품이 다른 나라에서 회수된 이력이 있는지는 확실하지 않으며, 전 세계적으로 다른 안전 경고가 발령된 사례는 없는 것으로 보임. ※ EU에서 설정된 캡사이신 한계수준은 확인되지 않음. 한편, 캡사이신 과량으로 인한 옥수수 토르티야 과자 EU RASFF 통보(2023.6804)에 따르면, 통보국 스위스는 캡사이시노이드(Capsaicinoids)의 최대한계 기준으로 '6,000 mg/kg - ppm'을 적용하였음.",
+    "query": "덴마크에서 회수된 Samyang Buldak Hot Chicken Ramen 3x Spicy의 회수 사유는 무엇인가?",
+    "answer": "덴마크 당국은 제품 한 봉지에 들어 있는 캡사이신 함량이 소비자가 급성 중독에 걸릴 위험이 있을 정도로 매우 높다고 평가하였기 때문이다."
+  },
+  {
+    "id": 90,
+    "title": "뉴질랜드 일차산업부 식품안전국, 덴마크에서 회수된 불닭 라면 조사 개시",
+    "content": "*관련 기수집정보: [회수]덴마크 수의식품청, 캡사이신 함량이 매우 높아 소비자가 급성 중독에 걸릴 위험 있어 불닭 라면 등 면류 3종 회수 (수집일자: 2024-06-12) 뉴질랜드 일차산업부 식품안전국(New Zealand Food Safety)은 덴마크에서 회수된 다음 삼양식품(사)의 불닭 라면 제품에 대한 조사를 개시함:  1) Buldak 3x Spicy  Hot Chicken, 스코빌 지수(Scoville rating): 13,2002) 2x Spicy  Hot Chicken, 스코빌 지수(Scoville rating): 8,8083) Hot Chicken Stew, 스코빌 지수(Scoville rating): 4,705  식품안전국 Vincent Arbuckle 차관은 \"삼양식품(사)의 라면에 고추 활성 성분인 캡사이신 수준이 높아 덴마크에서 회수가 진행된 것을 인지하고 있다\"라고 말했고 \"동 제품이 뉴질랜드에서도 판매 중이므로 조사를 진행하고 있다\"라고 밝혔음. 추가로, Vincent Arbuckle 차관은 \"식품 안전 위험이 있다고 판단되면 공중 안전을 위해 해당 제품 회수를 포함한 신속한 조치를 취할 것이다\"라고 말했음.",
+    "query": "뉴질랜드 일차산업부 식품안전국은 어떤 불닭 라면 제품에 대해 조사를 시작했나요?",
+    "answer": "뉴질랜드 일차산업부 식품안전국은 삼양식품의 Buldak 3x Spicy Hot Chicken, 2x Spicy Hot Chicken, Hot Chicken Stew 제품에 대해 조사를 시작했습니다."
+  },
+  {
+    "id": 91,
+    "title": "국제식품규격위원회, 제47차 총회 개최중... 코덱스 매거진 공개",
+    "content": "스위스 제네바에서 제47차 국제식품규격위원회(CODEX) 총회(CAC47)가 진행 중인 가운데 2024년 코덱스 매거진(*)이 발간되었음.  <Looking to the Future> 매거진은 빠르게 진화하는 식품, 식품 생산 시스템 및 기술의 맥락에서, 규격 설정 기관이 전 세계 모든 소비자, 생산자 및 식품 사업자에게 지속적으로 서비스를 제공하기 위해 코덱스 내에서 제기해야 할 몇몇 질문에 대해 다룸. 또한 FAO와 WHO, 회원국, 옵서버, 코덱스 사무국이 작성한 기사들과 더불어, 기술 및 상품위원회 회의(12회) 및 지역 FAO/WHO 조정위원회 회의에서 진행된 작업과 논의(2회)에 대한 요약도 제공함. (*) FAO and WHO. 2024. Codex: Protecting health, facilitating trade – Looking to the Future. Codex Alimentarius Magazine, 2024. Codex Alimentarius Commission. Rome.https://openknowledge.fao.org/server/api/core/bitstreams/adc29626-8bda-44cd-b2e9-aca937c6808e/content",
+    "query": "제47차 국제식품규격위원회 총회는 어디에서 열리고 있나요?",
+    "answer": "스위스 제네바에서 열리고 있습니다."
+  },
+  {
+    "id": 92,
+    "title": "[회수]캐나다 Rana Meal Solutions LLC, 리스테리아 모노사이토제네스 오염 가능성으로 미국산 즉석조리식품 파스타 회수",
+    "content": "- 최초 발표 일자: 2024-10-12 (최신 업데이트 일자: 2024-10-12) - 유통지역: 캐나다 전역- 회수사: Rana Meal Solutions LLC- 제품 정보: 브랜드 ; 제품 ; 크기 ; UPC ; 코드> Rana ; Tagliatelle Seasoned White Chicken  Mushroom Sauce ; 1.14 kg ; 8 77448 00481 1 ; All Best Before dates from 2024 OC 10 up to and including 2024 NO 16- 원산지: 미국 (제품 사진에서 'PRODUCT OF U.S.A' 확인)- 회수사유: 리스테리아 모노사이토제네스(Listeria monocytogenes) 오염 가능성- 제품사진: 원문 참조- 기타: 캐나다 식품검사청(CFIA)이 식품 안전 조사를 진행 중이며 다른 제품의 회수로 이어질 수 있음. CFIA는 업체가 회수 대상 제품을 시장에서 제거하고 있는지 확인 중임",
+    "query": "Rana Meal Solutions LLC가 회수하는 제품의 유통지역은 어디인가요?",
+    "answer": "캐나다 전역"
+  },
+  {
+    "id": 93,
+    "title": "[회수]호주 HenKing Foods Pty Ltd, 알레르기 유발물질 우유 미표시로 수프류 회수",
+    "content": "-일자 : 2024. 4. 30.-유통지역 : 호주 전역(온라인), ACT 및 NSW(자판기), (NSW 및 QLD(Harris Farm, 독립 식료품점) -회수사 : HenKing Foods Pty Ltd-제품명 : Mr Lees Noodles Henking Coconut Chicken Laksa 65g (일자표시 : 품질유지기한(Best before) 14/06/24)-회수사유 : 알레르기 유발물질(우유) 미표시-제품사진 : 원문참조-참고 : https://www.foodstandards.gov.au/sites/default/files/2024-04/HenKing%20Foods%20Pty%20Ltd%20-%20Mr%20Lees%20HenKing%20noodles%20coconut%20chicken%20laksa%20Recall%20Notice%20%5B52kb%5D.pdf",
+    "query": "Mr Lees Noodles Henking Coconut Chicken Laksa 제품의 회수 사유는 무엇인가요?",
+    "answer": "알레르기 유발물질(우유) 미표시"
+  },
+  {
+    "id": 94,
+    "title": "[회수]캐나다 iNaturally Organic Inc., 다량의 HHC 및 THC 함유 등으로 CBD  소프트겔 제품 등 회수",
+    "content": "- 최초 발표 일자: 202406-04 (최신 업데이트 일자: 2024-08-09)- 유통지역: 캐나다 Alberta, British Columbia, Manitoba, Ontario, Saskatchewan, Yukon의 승인된 소매점(Rosebud Productions Inc.(Herbal Dispatch), Open Fields Winnipeg, Open Fields Saskatchewan 및 Médicibis를 통해 의료 고객에게도 판매됨)- 판매기간: 2022년 12월부터 2024년 7월까지- 회수사: iNaturally Organic Inc. (유통사 정보는 원문 참조)- 제품 정보: 제품명; 크기; 로트 번호; 포장일자; 인쇄된 값1) Emprise CBN+CBD 50 mg Softgels; 30 units; 357045720, 357045721, 357055720, 357055721, 357065721; Sep 6, 2023, Nov 2, 2023, Jan 3, 2024, Dec 15, 2023, Apr 2, 2024; Total THC per unit: <3 mg, Total CBD per unit: 50 mg, Total CBN per unit: 10 mg2) NuLeaf Naturals 1800 mg Full Spectrum Hemp Multicannabinoid Oil (CBC, CBD, CBG and CBN, each at 15 mg/mL); 30 mL; 222722730, 222722731, 222722732, 222732720, 222742721; Dec 2, 2022, Jan 12, 2023, Oct 2, 2023, Dec 20, 2022, Jan 17, 2023; Total THC: <3 mg/g, Total CBD: 15.8 mg/g, Total CBN: 15.8 mg/g, Total CBG : 15.8 mg/g, Total CBC: 15.8 mg/g3) NuLeaf Naturals 1800 mg Full Spectrum Hemp Multicannabinoid Oil Softgels (with Delta 9, CBC, CBD, CBG and CBN each at 3mg per softgel); 120 units, 225765730; Dec 20, 2022; Total THC per unit: 3.4 mg, Total CBD per unit: 3 mg, Total CBN per unit: 3 mg, Total CBG per unit: 3 mg, Total CBC per unit: 3 mg4) Ultra Plus 1200 mg MultiCannabinoid Oil; 30 mL; 427052780; Feb 16, 2024; Total THC: 8 mg/g, Total CBD: 8 mg/g, Total CBN: 8 mg/g, Total CBG : 8 mg/g, Total CBC: 8 mg/g5) Ultra Plus 750 mg MultiCannabinoid Softgels; 30 units; 457075770, 457075771; Apr 2, 2024, June 12, 2024; Total THC per unit: 5 mg, Total CBD per unit: 5 mg, Total CBN per unit: 5 mg, Total CBG per unit: 5 mg, Total CBC per unit: 5 mg- 회수사유: 캐나다 연방보건부(Health Canada)는 부작용 보고와 관련하여 대마 제품을 점검, 샘플링 및 검사하였음. 검사 결과, 각 샘플은 상당한 양의 중독성이 있는 칸나비노이드 핵사하이드로카나비놀(cannabinoid hexahydrocannabinol) (HHC)과 THC가 있으며, <3 mg(소프트젤의 경우 단위 당, 오일인 경우 g 당) 함유하는 것으로 확인되었음. 덧붙여, 면허 소지자의 분석 인증서 및/또는 제품 표시에서 확인된 것보다 훨씬 적은 양의 칸나비크로멘(cannabichromene)(CBC)이 존재하였음. 이에 대한 대응조치로 iNaturally Organic Inc.는 자발적으로 회수를 시작함.- 제품사진: 원문 참조- 기타: 현재까지 제품과 관련하여 iNaturally Organic Inc.는 부작용 보고를 2건 접수받고, 캐나다 연방보건부는 부작용 보고 5건과 불만 1건을 접수받았음.",
+    "query": "iNaturally Organic Inc.의 CBD 소프트겔 제품이 회수된 이유는 무엇인가요?",
+    "answer": "캐나다 연방보건부는 부작용 보고와 관련하여 대마 제품을 점검, 샘플링 및 검사하였고, 검사 결과 상당한 양의 중독성이 있는 칸나비노이드 핵사하이드로카나비놀(HHC)과 THC가 포함되어 있어 iNaturally Organic Inc.는 자발적으로 회수를 시작했습니다."
+  },
+  {
+    "id": 95,
+    "title": "[회수]캐나다 Olymel L.P., 금속 조각으로 치킨 텐더 회수",
+    "content": "* 관련 기수집 정보: [확대회수]캐나다 Compass Minerals Canada Corp., 금속 조각으로 소금 회수(수집일자: 2024-11-20) - 최초 발표 일자: 2024-11-20(최신 업데이트 일자: 2024-11-15)- 유통지역: 캐나다 Ontario- 회수사: Olymel L.P.- 제품 정보: 브랜드; 제품명; 사이즈; UPC; 코드Olymel - Cyberbytes; Breaded, Chicken Breast Strips Seasoned, Formed, Uncooked; 4 kg; 0 65137 53759 1; Packed on: 2024-10-23- 회수사유: 금속 조각- 제품사진: -- 기타: 금속 조각으로 회수된  Sifto 브랜드 Hy·Grade Salt을 사용하여 이번 회수 제품을 만들었음.",
+    "query": "Olymel L.P.에서 회수한 치킨 텐더의 회수 사유는 무엇인가요?",
+    "answer": "금속 조각"
+  },
+  {
+    "id": 96,
+    "title": "[E/R]미국 Graceleigh, Inc. dba Sammy's Milk, FDA 요건 미준수 등으로 산양유 조제식 회수",
+    "content": "-지역: 미국 AL, AK, AZ, AK, CA, CO, CT, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, ME, MD, MI, MN, MS, MO, MT, NV, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, TN, TX, UT, VT, VA, WA, WI, WY. -회수사: Graceleigh, Inc. dba Sammy's Milk (회수중, 회수일: 4/18/2024)-회수사유: FDA의 점검 및 조사에 따르면 업체의 웹사이트에는 제품을 영아의 단일 영양공급원으로 사용하여도 안전함을 암시하는 정보가 포함되어 있음. Sammy's Milk는 영아용 조제식에 요구되는 시판 전 신고를 FDA에 제출하지 않았으며, 제품은 영아용 조제식 요건을 준수하여 제조되지 않았음.-제품명: 1) Sammy's Milk GOAT MILK TODDLER FORMULA, 25.68 oz (78g) 파우치(Lot Code SD348, 품질유지기한(Best by date): 2025년 8월)2) Sammy's Milk GOAT MILK TODDLER FORMULA, 0.64oz (18.2g) Stick Pak(Lot Code SD348, 품질유지기한(Best by date): 2025년 8월)",
+    "query": "Sammy's Milk GOAT MILK TODDLER FORMULA의 회수 사유는 무엇인가요?",
+    "answer": "FDA의 점검 및 조사에 따르면 업체의 웹사이트에 제품을 영아의 단일 영양공급원으로 사용하여도 안전함을 암시하는 정보가 포함되어 있으며, Sammy's Milk는 영아용 조제식에 요구되는 시판 전 신고를 FDA에 제출하지 않았고, 제품은 영아용 조제식 요건을 준수하여 제조되지 않았기 때문입니다."
+  },
+  {
+    "id": 97,
+    "title": "영국 식품기준청, 북아일랜드 레스토랑 어린이 메뉴에 개선 필요해",
+    "content": "영국 식품기준청(FSA)은 지방의회와 협력하여 북아일랜드의 레스토랑에서 제공되는 어린이 메뉴에 대한 조사 결과를 공개함.(*) 조사결과, 어린이 메뉴 선택의 폭은 제한적이고 건강한 메뉴가 거의 없었음. 가장 대중적인 어린이 메뉴로는 프라이드치킨칩스, 소시지칩스, 버거칩스였으며, 열량, 포화지방 및 식염 함량이 높았음. - 메뉴의 43%는 5세 어린이 기준 평균 권장 열량의 절반 이상을 함유함- 메뉴의 47%는 5세 어린이 기준 평균 권장 포화지방의 절반 이상을 함유함- 70%의 메뉴는 5세 어린이 기준 권장 최대 나트륨 섭취량의 절반 이상을 함유함- 어린이 메뉴 72%의 사이드 메뉴는 칩스였던 반면, 채소가 사이드 메뉴인 경우는 24%였음 수전 젭 식품기준청장은 \"이번 조사 결과에 따르면 어린이들이 외식 시 먹을 수 있는 음식의 영양학적 품질 개선을 위한 노력이 필요하다. 그러나 고무적인 것은 이번 조사에 참여한 대부분의 레스토랑 관계자들이 그들의 업종이 어린이 식단 개선에 중요한 역할을 하고 있다고 생각한다는 점\"이라고 함. (*) https://www.food.gov.uk/sites/default/files/media/document/What%27s%20on%20the%20children%27s%20menu.pdf",
+    "query": "북아일랜드 레스토랑의 어린이 메뉴에서 가장 흔한 사이드 메뉴는 무엇인가?",
+    "answer": "어린이 메뉴의 72%에서 사이드 메뉴로 칩스가 제공되었다."
+  },
+  {
+    "id": 98,
+    "title": "영국 과학혁신기술부, 식품기준청의 '세포배양제품 규제 유예제도' 사업에 자금 지원하기로",
+    "content": "영국 과학혁신기술부의 '생물공학 샌드박스 기금(Engineering Biology Sandbox Fund)' 1라운드에서 식품기준청(FSA)의 '세포배양제품 규제 유예제도(샌드박스)' 사업이 160만 파운드의 자금을 지원받게 되었음.  <사업 설명>영국 식품기준청(FSA)과 스코틀랜드 식품기준청(FSS)의 세포배양제품(CCP, cell-cultivated product) 유예제도는 안전을 통한 혁신을 지원함. 세포배양식품은 육류, 수산물, 지방, 내장 또는 달걀에서 세포를 분리하여 통제된 환경에서 재배하고 제조되는 소비자 식품임. 유예제도를 통해 세포배양 제품과 제조에 사용되는 기술에 대한 엄격한 과학적 증거를 수집할 것임. 이를 통해 제품 안전성에 대한 충분한 정보를 바탕으로 결정을 내릴 수 있음. 유예제도의 일환으로, CCP 기업에게 사전 신청 지원을 제공하고 라벨링과 같이 CCP가 시장에 진입하기 전에 해결해야 하는 주요 질문을 해결할 수 있을 것임. 이 작업을 통하여 우리는 CCP 신청을 더욱 신속하게 처리하고 기업을 지원하여, 궁극적으로 소비자들의 안전한 식품 선택에 도움이 되도록 할 것임. 또한 유예제도로 달성할 성과를 통해, FSA와 FSS는 새로운 기술에 발맞추고 다른 혁신적인 식품을 승인할 때 새로운 통찰을 적용할 수 있게 될 것임. ※ 관련 식품기준청 소식: https://www.food.gov.uk/news-alerts/news/groundbreaking-sandbox-programme-for-cell-cultivated-products-announced",
+    "query": "영국 과학혁신기술부의 '생물공학 샌드박스 기금' 1라운드에서 식품기준청의 '세포배양제품 규제 유예제도' 사업이 얼마의 자금을 지원받았나요?",
+    "answer": "160만 파운드"
+  },
+  {
+    "id": 99,
+    "title": "영국, 가성우역 발생으로 루마니아산 생 산양유 및 유제품 수입 일시 중단",
+    "content": "영국(Great Britain: 잉글랜드, 스코틀랜드, 웨일스)은 루마니아로부터의 양과 염소 원유 및 유제품의 수입을 일시적으로 중단함. 이는 루마니아에서 2024년 7월 19일에 확인된 가성우역(PPR, Peste des petits ruminants) 발생에 따른 것임.",
+    "query": "영국이 루마니아산 생 산양유 및 유제품 수입을 중단한 이유는 무엇인가?",
+    "answer": "루마니아에서 2024년 7월 19일에 확인된 가성우역 발생 때문이다."
+  }
+]
